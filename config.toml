@@ -1,0 +1,77 @@
+baseurl      = "//matteobobba.github.io"
+title        = "Matteo Bobba"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Subtitle for home
+  homeSubtitle = "Personal website"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = true
+
+  # Metadata mostly used in document's head
+  description = "Matteo's home page"
+  keywords = "industrial organization, labor economics, machine learning, economics, econometrics"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  [params.portrait]
+    path ="/HighRes_Photo3.jpg"
+    alt = "Matteo's Photo"
+
+  # Social icons
+
+  [[params.social]]
+    name = "googlescholar"
+    url  = "https://scholar.google.com/citations?user=8x7z-VQAAAAJ&hl=en"
+
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+  [languages.en.params]
+    title = "Matteo Bobba"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "Personal Webpage"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"    
+    name       = "About"   
+    url        = "/" 
+
+  [[menu.main]]
+    identifier = "research"
+    name       = "Research"
+    url        = "/research/"
+
+  [[menu.main]]
+    identifier = "cv"
+    name       = "CV / Resume"
+    url        = "/CV_Bobba.pdf"

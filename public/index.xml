@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matteo Bobba</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Matteo Bobba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>//localhost:1313/research/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/</guid>
+      <description>Working Papers Enhancing Human Capital in Children. A Case Study on Scaling PDF (with F. Agostinelli and C. Avitabile). Revise and Resubmit (third round), Journal of Political Economy. See also VoxDev column Here&#xA;Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru PDF (with T. Ederer, G. Leon, C. Neilson, and M. Nieddu). Resubmitted, Journal of Political Economy. See also VoxDev column Here&#xA;Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects PDF (with V.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>I am currently a Professor of Economics at the Toulouse School of Economics (TSE). Prior to my academic career, I have been an Economist at the Inter-American Development Bank in Washington DC.&#xA;I can be reached at matteo.bobba@tse-fr.eu. For information about my teaching activities, including current and past courses, please check my dedicated TSE webpage.&#xA;I am a Research Fellow at the CEPR (Development and Labor), IZA, and the EUDN. I am also an invited researcher at JPAL (Learning for All Initiative and Latin America Office).</description>
+    </item>
+  </channel>
+</rss>

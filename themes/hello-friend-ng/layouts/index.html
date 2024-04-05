@@ -1,0 +1,46 @@
+{{ define "main" }}
+    <main aria-role="main" style="max-width: 1000px; margin: 0 auto; padding: 10px; box-sizing: border-box;">
+        <style>
+            @media (max-width: 768px) {
+                #main-content {
+                    flex-direction: column;
+                }
+                #photo-content, #text-content {
+                    width: 100%;
+                }
+            }
+            @media (min-width: 769px) {
+                #main-content {
+                    flex-direction: row;
+                }
+                #photo-content {
+                    width: 33%;
+                }
+                #text-content {
+                    width: 66%;
+                }
+            }
+        </style>
+        <div id="main-content" style="display: flex; flex-wrap: wrap;">
+            <div id="photo-content" style="text-align: center; padding: 10px; align-self: center; padding-right: 60px;">
+                {{ if .Site.Params.portrait.path }}
+                    <img src="{{ .Site.Params.portrait.path }}" class="circle" alt="{{ .Site.Params.portrait.alt }}" style="max-width: 100%;" />
+                {{ end }}
+
+                {{- with .Site.Params.social }}
+                    <div style="display: flex; justify-content: center; margin-top: 20px;">
+                        {{ partial "social-icons.html" . }}
+                    </div>
+                {{- end }}
+            </div>
+
+            <div id="text-content" style="padding: 10px;">
+                <h1>{{ .Site.Title }}</h1>
+
+                {{- $about := readFile "content/about.md" -}}
+                <span style="text-align: justify; line-height:1.8">{{ $about | markdownify }}</span>
+            </div>
+        </div>
+    </main>
+{{ end }}
+
