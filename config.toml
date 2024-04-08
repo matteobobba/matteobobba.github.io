@@ -1,6 +1,7 @@
 baseurl      = "//matteobobba.github.io"
 title        = "Matteo Bobba"
 languageCode = "en-us"
+publishDir = "docs"
 theme        = "hello-friend-ng"
 paginate     = 10
 
@@ -36,6 +37,14 @@ paginate     = 10
   [[params.social]]
     name = "googlescholar"
     url  = "https://scholar.google.com/citations?user=8x7z-VQAAAAJ&hl=en"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/matteobobba"
+    
+    [[params.social]]
+    name = "orcid"
+    url  = "https://orcid.org/my-orcid?orcid=0000-0001-9594-4802"
 
 
 [taxonomies]
