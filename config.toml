@@ -83,4 +83,4 @@ paginate     = 10
   [[menu.main]]
     identifier = "cv"
     name       = "CV / Resume"
-    url        = "/cv_bobba.pdf"
+    url        = "/cv.pdf"
