@@ -61,8 +61,9 @@ paginate     = 10
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Personal Webpage"
-      logoHomeLink = "/"
+    path="/TSE_Logo_MainVersion_alpha.png"
+    alt="TSELogo"
+    logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
