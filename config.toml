@@ -79,8 +79,8 @@ paginate     = 10
     identifier = "research"
     name       = "Research"
     url        = "/research/"
-
+    
   [[menu.main]]
     identifier = "cv"
     name       = "CV / Resume"
-    url        = "/CV_Bobba.pdf"
+    url        = "/cv_bobba.pdf"
