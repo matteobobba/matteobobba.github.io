@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matteo Bobba</title>
-    <link>//matteobobba.github.io/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Matteo Bobba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//matteobobba.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>//matteobobba.github.io/research/</link>
+      <link>//localhost:1313/research/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//matteobobba.github.io/research/</guid>
+      <guid>//localhost:1313/research/</guid>
       <description>My research revolves around issues on the accumulation of human capital and the functioning of labor markets in low and middle income countries. I am also interested in methodological aspects of policy evaluation, and in particular in combining model-based and design-based approaches.&#xA;Working Papers Enhancing Human Capital in Children. A Case Study on Scaling (with F. Agostinelli and C. Avitabile). Revise and Resubmit (third round), Journal of Political Economy. VoxDev.</description>
     </item>
     <item>
       <title></title>
-      <link>//matteobobba.github.io/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//matteobobba.github.io/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>I am a Professor of Economics at the Toulouse School of Economics (TSE) in France. Prior to my academic career, I have been an Economist at the Inter-American Development Bank in Washington DC.&#xA;I am a Research Fellow at the CEPR (Development and Labor), IZA, and EUDN. I am also an invited researcher at J-PAL (Learning for All Initiative and Latin America Office).&#xA;I can be reached at matteo.bobba@tse-fr.eu. My most recent CV is here.</description>
     </item>
   </channel>
