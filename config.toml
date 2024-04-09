@@ -26,7 +26,7 @@ paginate     = 10
   contentTypeName = "posts"
 
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
 
   [params.portrait]
     path ="/HighRes_Photo3.jpg"
