@@ -4,7 +4,7 @@ I am a Research Fellow at the CEPR ([Development](https://cepr.org/research/prog
 
 I can be reached at [matteo.bobba@tse-fr.eu](mailto:matteo.bobba@tse-fr.eu). My most recent CV is [here](/cv.pdf). 
 
-This website is about my academic research, which is at the intersection of **Development, Labor and Public Economics**. For information about my teaching activities, please check my [TSE webpage](https://www.tse-fr.eu/people/matteo-bobba?tab=teaching).
+This website is about my [academic research](/research), which is at the intersection of **Development, Labor and Public Economics**. For information about my teaching activities, please check my [TSE webpage](https://www.tse-fr.eu/people/matteo-bobba?tab=teaching).
 
 
 **What's new?**
