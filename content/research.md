@@ -18,7 +18,7 @@ My research revolves around issues on the accumulation of **human capital** and 
 
 ## Publications
 
-- [Self-Perceptions about Academic Achievement: Evidence from Mexico City](/BF_joe2022.pdf) [Veronica Frisancho](https://veronicafrisancho.net/). 
+- [Self-Perceptions about Academic Achievement: Evidence from Mexico City](/BF_joe2022.pdf) (with [Veronica Frisancho](https://veronicafrisancho.net/)). 
 **Journal of Econometrics, 2022, 231(1): 58-73.** [Web Appendix](/BF_appendix.pdf).
 
 - [Labor Market Search, Informality, and Schooling Investments](/BFL_ier2022.pdf) (with [Luca Flabbi](https://sites.google.com/site/lucaflabbi/) and [Santiago Levy](https://www.brookings.edu/people/santiago-levy/)).
