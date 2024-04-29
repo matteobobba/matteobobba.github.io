@@ -8,13 +8,13 @@ My research revolves around issues on the accumulation of **human capital** and 
 
 
 ## Working Papers
-- [Enhancing Human Capital in Children. A Case Study on Scaling](/AAB_October2023.pdf) (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
-**Revise and Resubmit (third round), Journal of Political Economy.** [VoxDev Column](https://voxdev.org/topic/education/how-scale-child-development-programmes).
+- [Enhancing Human Capital in Children. A Case Study on Scaling](/AAB_April2024.pdf) (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
+**Revise and Resubmit (fourth round), Journal of Political Economy.** [VoxDev Column](https://voxdev.org/topic/education/how-scale-child-development-programmes).
 
 - [Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru](/BELNN_March2024.pdf) (with [Tim Ederer](https://sites.google.com/view/tim-ederer), [Gianmarco Léon-Ciliotta](https://sites.google.com/site/gianmarcoleon/), [Chris Neilson](https://christopherneilson.github.io/), and [Marco Nieddu](https://www.marconieddu.net/)).
 **Resubmitted, Journal of Political Economy.** [VoxDev Column](https://voxdev.org/topic/education/how-teacher-wage-policies-help-reduce-urban-rural-achievement-gaps-evidence-peru).
 
-- [Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_May2023.pdf) (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)).
+- [Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_May2023.pdf) (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). **New draft coming soon!**
 
 
 ## Publications
@@ -23,7 +23,7 @@ My research revolves around issues on the accumulation of **human capital** and 
 **Journal of Econometrics, 2022, 231(1): 58-73.** [Web Appendix](/BF_appendix.pdf).
 
 - [Labor Market Search, Informality, and Schooling Investments](/BFL_ier2022.pdf) (with [Luca Flabbi](https://sites.google.com/site/lucaflabbi/) and [Santiago Levy](https://www.brookings.edu/people/santiago-levy/)).
-**International Economic Review, 2022, 63: 211-259.** [Web Appendix](/BFL_appendix.pdf); [VoxLacea Column](https://vox.lacea.org/?q=blog/reforming_labor_markets); [VoxDevLit Issue on Informality](https://voxdev.org/voxdevlit/informality).
+**International Economic Review, 2022, 63: 211-259.** [Web Appendix](/BFL_appendix.pdf); [IER Top Cited Article 2022-2023](/Top_Cited_Article.pdf); [VoxLacea Column](https://vox.lacea.org/?q=blog/reforming_labor_markets); [VoxDevLit Issue on Informality](https://voxdev.org/voxdevlit/informality).
 
 - [Labor Market Search, Informality, and On-The-Job Human Capital Accumulation](/BFLT_joe2021.pdf) (with [Luca Flabbi](https://sites.google.com/site/lucaflabbi/), [Santiago Levy](https://www.brookings.edu/people/santiago-levy/), and [Mauricio Tejada](https://mauriciotejada.com/)).
 **Journal of Econometrics, 2021, 223(2): 433-453.** [Web Appendix](/BFLT_appendix.pdf); [VoxLacea Column](https://vox.lacea.org/?q=blog/reforming_labor_markets); [VoxDevLit Issue on Informality](https://voxdev.org/voxdevlit/informality).
