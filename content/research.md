@@ -4,7 +4,8 @@ date: 2024-04-04
 author: Matteo Bobba
 ---
 
-My research revolves around issues on the accumulation of **human capital** and the functioning of **labor markets** in **low and middle income countries**. I am also interested in methodological aspects of **policy evaluation**, and in particular in combining model-based and design-based approaches. 
+My research revolves around issues on the accumulation of **human capital** and the functioning of **labor markets** in **low and middle income countries**. 
+
 
 ## Working Papers
 - [Enhancing Human Capital in Children. A Case Study on Scaling](/AAB_October2023.pdf) (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).

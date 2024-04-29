@@ -35,6 +35,10 @@ paginate     = 10
   # Social icons
 
   [[params.social]]
+    name = "email"
+    url  = "mailto:matteo.bobba@tse-fr.eu"
+
+  [[params.social]]
     name = "googlescholar"
     url  = "https://scholar.google.com/citations?user=8x7z-VQAAAAJ&hl=en"
 
@@ -45,6 +49,10 @@ paginate     = 10
     [[params.social]]
     name = "orcid"
     url  = "https://orcid.org/my-orcid?orcid=0000-0001-9594-4802"
+
+    [[params.social]]
+    name = "repec"
+    url  = "https://ideas.repec.org/f/pbo270.html"
 
 
 [taxonomies]
@@ -61,6 +69,7 @@ paginate     = 10
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
+    logoText="Matteo Bobba"
     path="/TSE_Logo_MainVersion_alpha.png"
     alt="TSELogo"
     logoHomeLink = "/"

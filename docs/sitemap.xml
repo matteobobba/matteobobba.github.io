@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//matteobobba.github.io/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//matteobobba.github.io/research/</loc>
+    <loc>//localhost:1313/research/</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//matteobobba.github.io/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>//matteobobba.github.io/blog/</loc>
+    <loc>//localhost:1313/blog/</loc>
   </url><url>
-    <loc>//matteobobba.github.io/series/</loc>
+    <loc>//localhost:1313/series/</loc>
   </url><url>
-    <loc>//matteobobba.github.io/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
