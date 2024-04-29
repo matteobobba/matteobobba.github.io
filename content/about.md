@@ -1,4 +1,4 @@
-I am a **Professor of Economics** at the [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/) in France. My [academic research](/research) focuses on topics in **Development, Labor, and Public Economics**. I am also interested in methodological aspects of **Policy Evaluation**, and in particular in combining model-based and design-based approaches. 
+I am a **Professor of Economics** at the [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/) in France. My [academic research](/research) focuses on topics in **Development, Labor, and Public Economics**. I am also interested in methodological aspects of **Policy Evaluation**, and in particular in combining model-based and design-based approaches.    
 
 Prior to my academic career, I have been an Economist at the [Inter-American Development Bank](https://www.iadb.org/en/knowledge-resources/research-idb) in Washington DC. 
 
