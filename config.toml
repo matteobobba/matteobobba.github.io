@@ -1,7 +1,7 @@
 baseurl      = "//matteobobba.github.io"
 title        = "Matteo Bobba"
 languageCode = "en-us"
-publishDir = "docs"
+publishDir = "public"
 theme        = "hello-friend-ng"
 paginate     = 10
 
@@ -34,24 +34,29 @@ paginate     = 10
 
   # Social icons
 
+  #[[params.social]]
+    #name = "case"
+   #hrname="CV"
+    #url  = "/CV.pdf"
+
   [[params.social]]
     name = "email"
+    hrname="matteo.bobba@tse-fr.eu"
     url  = "mailto:matteo.bobba@tse-fr.eu"
 
   [[params.social]]
     name = "googlescholar"
+hrname="Google Scholar"
     url  = "https://scholar.google.com/citations?user=8x7z-VQAAAAJ&hl=en"
 
   [[params.social]]
     name = "github"
+hrname="GitHub"
     url  = "https://github.com/matteobobba"
     
     [[params.social]]
-    name = "orcid"
-    url  = "https://orcid.org/my-orcid?orcid=0000-0001-9594-4802"
-
-    [[params.social]]
     name = "repec"
+hrname="Ideas/Repec"
     url  = "https://ideas.repec.org/f/pbo270.html"
 
 

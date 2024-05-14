@@ -1,6 +1,8 @@
 <header class="header">
     <span class="header__inner">
         {{ partial "logo.html" . }}
+                <span class="logo__text {{ with.Site.Params.Logo.logoCursorPathname}}logo__pathname{{ end }} logo" style="margin:auto">
+                {{ with .Site.Params.Logo.logoText }}{{ . }}{{ else }}hello{{ end }}</span>
 
         <span class="header__right">
             {{ if len .Site.Menus }}

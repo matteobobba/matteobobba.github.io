@@ -1,3 +1,9 @@
+<ul style="list-style-type: none;">                  
 {{ range . -}}
-    &nbsp; <a href="{{ .url }}" target="_blank" rel="me noopener {{ .rel }}" title="{{ .name | humanize }}">{{ partial "svg.html" . }}</a> &nbsp;
+<li style="display: flex; align-items: center; margin: 12px 0">
+    {{ partial "svg.html" . }}&nbsp;&nbsp;
+    <a href="{{ .url }}" target="_blank" rel="me noopener {{ .rel }}" title="{{ .name | humanize }}" style="white-space: nowrap;">{{.hrname }}</a>
+</li>
+
 {{- end -}}
+</ul>

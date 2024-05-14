@@ -35,7 +35,6 @@
             </div>
 
             <div id="text-content" style="padding: 10px;">
-                <h1>{{ .Site.Title }}</h1>
 
                 {{- $about := readFile "content/about.md" -}}
                 <span style="text-align: justify; line-height:1.8">{{ $about | markdownify }}</span>
