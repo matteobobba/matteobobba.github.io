@@ -31,7 +31,7 @@ My research revolves around issues on the accumulation of **human capital** and 
 
 - [Neighborhood Effects in Integrated Social Policies](/BG_wber2019.pdf) (with [Jérémie Gignoux](https://www.parisschoolofeconomics.eu/en/gignoux-jeremie/)). **World Bank Economic Review, 2019, 33(1): 116-139.** [Web Appendix](/BG_appendix.pdf).
 
-- [Liquidity, Risk and Occupational Choices](/BB_res2013.pdf) (with [Milo Bianchi](https://sites.google.com/site/bianchimilo/)). **Review of Economic Studies, 2013, 80(2): 491-511.** [Web Appendix](/BB_appendix.pdf).
+- [Liquidity, Risk and Occupational Choices](/BB_res2013.pdf) (with [Milo Bianchi](https://sites.google.com/site/bianchimilo/)). **Review of Economic Studies, 2013, 80(2): 491-511.** [Web Appendix](/BB_appendix.pdf); [Winner of the 2014 AFSE-Malinvaud Prize](https://www.afse.fr/en/prix/le-prix-edmond-malinvaud-500012).
 
 - [Weak Instruments and Weak Identification in Estimating the Effects of Education on Democracy](/BC_el2007.pdf) (with [Decio Coviello](https://www.hec.ca/en/profs/decio.coviello.html)).
 **Economics Letters, 2007, 96: 301-306.**
