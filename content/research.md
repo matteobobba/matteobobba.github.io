@@ -4,7 +4,7 @@ date: 2024-04-04
 author: Matteo Bobba
 ---
 
-My research revolves around issues on the accumulation of **human capital** and the functioning of **labor markets** in **low and middle income countries**.  I am also interested in methodological aspects of **Policy Evaluation**, and in particular in combining model-based and design-based approaches. 
+My research aims at a better understanding of the sources of inequality in the accumulation of **human capital** and the functioning of **labor markets** in **low and middle income countries**.  I am also interested in methodological aspects of **Policy Evaluation**, and in particular in combining model-based and design-based approaches. 
 
 
 ## Working Papers
