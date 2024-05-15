@@ -8,4 +8,4 @@ I am a Research Fellow at the CEPR ([Development](https://cepr.org/research/prog
 
 - March 2024: Revised draft of [Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru](/BELNN_March2024.pdf).
 
-- November 2023: I have defended my [Habilitation à Diriger des Recherches (HDR)](https://www.tse-fr.eu/matteo-bobbas-hdr-november-6th2023?lang=en) on the topic [Essays in Development and Labor Economics](/Slides_HDR.pdf).
+- November 2023: I have defended my [Habilitation à Diriger des Recherches (HDR)](https://www.tse-fr.eu/matteo-bobbas-hdr-november-6th2023?lang=en).
