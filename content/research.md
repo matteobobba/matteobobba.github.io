@@ -4,10 +4,10 @@ date: 2024-04-04
 author: Matteo Bobba
 ---
 
-My research aims at a better understanding of the sources of inequality in the accumulation of **human capital** and the functioning of **labor markets** in **low and middle income countries**.  I am also interested in methodological aspects of **Policy Evaluation**, and in particular in combining model-based and design-based approaches. 
+My research agenda revolves around topics on **human capital** and **labor markets** in **low and middle income countries**.  I am also interested in methodological aspects of **policy evaluation**, and in particular in combining model-based and design-based approaches. 
 
 
-## Working Papers
+## (Re-) Submitted Papers
 
 - [Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru](/BELNN_March2024.pdf) (with [Tim Ederer](https://sites.google.com/view/tim-ederer), [Gianmarco Léon-Ciliotta](https://sites.google.com/site/gianmarcoleon/), [Chris Neilson](https://christopherneilson.github.io/), and [Marco Nieddu](https://www.marconieddu.net/)).
 **Resubmitted, Journal of Political Economy.** [VoxDev Column](https://voxdev.org/topic/education/how-teacher-wage-policies-help-reduce-urban-rural-achievement-gaps-evidence-peru).
@@ -15,7 +15,7 @@ My research aims at a better understanding of the sources of inequality in the a
 - [Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_May2023.pdf) (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). **New draft coming soon!**
 
 
-## Publications and Accepted Papers
+## Published Papers
 
 - [Enhancing Human Capital in Children. A Case Study on Scaling](/AAB_April2024.pdf) (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
 **Journal of Political Economy, accepted for publication.** [VoxDev Column](https://voxdev.org/topic/education/how-scale-child-development-programmes).
