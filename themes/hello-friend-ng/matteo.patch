@@ -1,0 +1,479 @@
+diff --git a/assets/js/main.js b/assets/js/main.js
+index 811c5ba..68c434f 100644
+--- a/assets/js/main.js
++++ b/assets/js/main.js
+@@ -6,52 +6,7 @@
+  *
+  */
+ const themeToggle = document.querySelector(".theme-toggle");
+-const chosenTheme = window.localStorage && window.localStorage.getItem("theme");
+-const chosenThemeIsDark = chosenTheme == "dark";
+ const chosenThemeIsLight = chosenTheme == "light";
++document.documentElement.setAttribute("data-theme", "light");
++localStorage.setItem("theme", "light");
+ 
+-// Detect the color scheme the operating system prefers.
+-function detectOSColorTheme() {
+-  if (chosenThemeIsDark) {
+-    document.documentElement.setAttribute("data-theme", "dark");
+-  } else if (chosenThemeIsLight) {
+-    document.documentElement.setAttribute("data-theme", "light");
+-  } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+-    document.documentElement.setAttribute("data-theme", "dark");
+-  } else {
+-    document.documentElement.setAttribute("data-theme", "light");
+-  }
+-}
+-
+-// Switch the theme.
+-function switchTheme(e) {
+-  if (chosenThemeIsDark) {
+-    localStorage.setItem("theme", "light");
+-  } else if (chosenThemeIsLight) {
+-    localStorage.setItem("theme", "dark");
+-  } else {
+-    if (document.documentElement.getAttribute("data-theme") == "dark") {
+-      localStorage.setItem("theme", "light");
+-    } else {
+-      localStorage.setItem("theme", "dark");
+-    }
+-  }
+-
+-  detectOSColorTheme();
+-  window.location.reload();
+-}
+-
+-// Event listener
+-if (themeToggle) {
+-  themeToggle.addEventListener("click", switchTheme, false);
+-  window
+-    .matchMedia("(prefers-color-scheme: dark)")
+-    .addEventListener("change", (e) => e.matches && detectOSColorTheme());
+-  window
+-    .matchMedia("(prefers-color-scheme: light)")
+-    .addEventListener("change", (e) => e.matches && detectOSColorTheme());
+-
+-  detectOSColorTheme();
+-} else {
+-  localStorage.removeItem("theme");
+-}
+diff --git a/assets/scss/_buttons.scss b/assets/scss/_buttons.scss
+index 624e7ee..193de19 100644
+--- a/assets/scss/_buttons.scss
++++ b/assets/scss/_buttons.scss
+@@ -24,19 +24,11 @@ a.button {
+   // Default
+   background: $light-background-header;
+ 
+-  @media (prefers-color-scheme: dark) {
+-    background: $dark-background-header;
+-    color: inherit;
+-  }
+ 
+   @media (prefers-color-scheme: light) {
+     background: $light-background-header;
+   }
+ 
+-  [data-theme=dark] & {
+-    background: $dark-background-header;
+-    color: inherit;
+-  }
+ 
+   [data-theme=light] & {
+     background: $light-background-header;
+@@ -49,19 +41,12 @@ a.button {
+     // Default
+     border-color: $light-background-secondary;
+ 
+-    @media (prefers-color-scheme: dark) {
+-      border-color: $dark-background-secondary;
+-      color: inherit;
+-    }
++   
+   
+     @media (prefers-color-scheme: light) {
+       border-color: $light-background-secondary;
+     }
+   
+-    [data-theme=dark] & {
+-      border-color: $dark-background-secondary;
+-      color: inherit;
+-    }
+   
+     [data-theme=light] & {
+       border-color: $light-background-secondary;
+@@ -118,19 +103,11 @@ a.button {
+     // Default
+     background: $light-background-secondary;
+ 
+-    @media (prefers-color-scheme: dark) {
+-      background: $dark-background-secondary;
+-      color: inherit;
+-    }
+   
+     @media (prefers-color-scheme: light) {
+       background: $light-background-secondary;
+     }
+   
+-    [data-theme=dark] & {
+-      background: $dark-background-secondary;
+-      color: inherit;
+-    }
+   
+     [data-theme=light] & {
+       background: $light-background-secondary;
+diff --git a/assets/scss/_list.scss b/assets/scss/_list.scss
+index 05388ec..eb175b4 100644
+--- a/assets/scss/_list.scss
++++ b/assets/scss/_list.scss
+@@ -13,17 +13,11 @@
+     // Default
+     border-bottom: 1px solid $light-border-color;
+ 
+-    @media (prefers-color-scheme: dark) {
+-      border-bottom: 1px solid $dark-border-color;
+-    }
+   
+     @media (prefers-color-scheme: light) {
+       border-bottom: 1px solid $light-border-color;
+     }
+   
+-    [data-theme=dark] & {
+-      border-bottom: 1px solid $dark-border-color;
+-    }
+   
+     [data-theme=light] & {
+       border-bottom: 1px solid $light-border-color;
+diff --git a/assets/scss/_main.scss b/assets/scss/_main.scss
+index f114030..7cdad19 100644
+--- a/assets/scss/_main.scss
++++ b/assets/scss/_main.scss
+@@ -36,20 +36,12 @@ body {
+     font-size: 1rem;
+   }
+ 
+-  @media (prefers-color-scheme: dark) {
+-    background-color: $dark-background;
+-    color: $dark-color;
+-  }
+ 
+   @media (prefers-color-scheme: light) {
+     background-color: $light-background;
+     color: $light-color;
+   }
+ 
+-  [data-theme=dark] & {
+-    background-color: $dark-background;
+-    color: $dark-color;
+-  }
+ 
+   [data-theme=light] & {
+     background-color: $light-background;
+@@ -192,17 +184,11 @@ em, i, strong {
+   // Default
+   color: $light-color-variant;
+ 
+-  @media (prefers-color-scheme: dark) {
+-    color: $dark-color-variant;
+-  }
+ 
+   @media (prefers-color-scheme: light) {
+     color: $light-color-variant;
+   }
+ 
+-  [data-theme=dark] & {
+-    color: white;
+-  }
+ 
+   [data-theme=light] & {
+     color: black;
+@@ -220,17 +206,11 @@ code {
+   // Default
+   background: $light-background-secondary;
+ 
+-  @media (prefers-color-scheme: dark) {
+-    background: $dark-background-secondary;
+-  }
+ 
+   @media (prefers-color-scheme: light) {
+     background: $light-background-secondary;
+   }
+ 
+-  [data-theme=dark] & {
+-    background: $dark-background-secondary;
+-  }
+ 
+   [data-theme=light] & {
+     background: $light-background-secondary;
+@@ -238,9 +218,6 @@ code {
+ }
+ 
+ pre {
+-  [data-theme=dark] & {
+-    background-color: $dark-background-secondary;
+-  }
+ 
+   [data-theme=light] & {
+     background-color: $light-background-secondary;
+@@ -264,17 +241,11 @@ pre {
+     // Default
+     color: #ccc;
+ 
+-    @media (prefers-color-scheme: dark) {
+-      color: inherit;
+-    }
+   
+     @media (prefers-color-scheme: light) {
+       color: #ccc;
+     }
+   
+-    [data-theme=dark] & {
+-      color: inherit;
+-    }
+   
+     [data-theme=light] & {
+       color: #ccc;
+@@ -353,17 +324,11 @@ hr {
+   // Default
+   background: $light-border-color;
+ 
+-  @media (prefers-color-scheme: dark) {
+-    background: $dark-border-color;
+-  }
+ 
+   @media (prefers-color-scheme: light) {
+     background: $light-border-color;
+   }
+ 
+-  [data-theme=dark] & {
+-    background: $dark-border-color;
+-  }
+ 
+   [data-theme=light] & {
+     background: $light-border-color;
+diff --git a/assets/scss/_menu.scss b/assets/scss/_menu.scss
+index 24846fb..f2a10b9 100644
+--- a/assets/scss/_menu.scss
++++ b/assets/scss/_menu.scss
+@@ -3,17 +3,11 @@
+   // Default
+   background: $light-background-header;
+ 
+-  @media (prefers-color-scheme: dark) {
+-    background: $dark-background-header;
+-  }
+ 
+   @media (prefers-color-scheme: light) {
+     background: $light-background-header;
+   }
+ 
+-  [data-theme=dark] & {
+-    background: $dark-background-header;
+-  }
+ 
+   [data-theme=light] & {
+     background: $light-background-header;
+@@ -86,17 +80,11 @@
+ .submenu {
+   background: $light-background-header;
+ 
+-  @media (prefers-color-scheme: dark) {
+-    background: $dark-background-header;
+-  }
+ 
+   @media (prefers-color-scheme: light) {
+     background: $light-background-header;
+   }
+ 
+-  [data-theme=dark] & {
+-    background: $dark-background-header;
+-  }
+ 
+   [data-theme=light] & {
+     background: $light-background-header;
+@@ -121,15 +109,12 @@
+   .dropdown-content {
+     display: none;
+     position: absolute;
+-    background: $dark-background-header;
++    background: $light-background-header;
+ 
+     @media (prefers-color-scheme: light) {
+       background: $light-background-header;
+     }
+     
+-    [data-theme=dark] & {
+-      background: $dark-background-header;
+-    }
+   
+     [data-theme=light] & {
+       background: $light-background-header;
+@@ -144,15 +129,12 @@
+   }
+ 
+   .dropdown-content a:hover {
+-    background: $dark-background-header;
++    background: $light-background-header;
+     
+     @media (prefers-color-scheme: light) {
+       background: $light-background-header;
+     }
+ 
+-    [data-theme=dark] & {
+-      background: $dark-background-header;
+-    }
+   
+     [data-theme=light] & {
+       background: $light-background-header;
+@@ -162,4 +144,4 @@
+   .dropdown:hover .dropdown-content {
+     display: block;
+   }
+-}
+\ No newline at end of file
++}
+diff --git a/assets/scss/_single.scss b/assets/scss/_single.scss
+index de84188..b2d490c 100644
+--- a/assets/scss/_single.scss
++++ b/assets/scss/_single.scss
+@@ -132,20 +132,12 @@
+       background: $light-background;
+       color: $light-color-secondary;
+ 
+-      @media (prefers-color-scheme: dark) {
+-        background: $dark-background;
+-        color: $dark-color-secondary;
+-      }
+     
+       @media (prefers-color-scheme: light) {
+         background: $light-background;
+         color: $light-color-secondary;
+       }
+     
+-      [data-theme=dark] & {
+-        background: $dark-background;
+-        color: $dark-color-secondary;
+-      }
+     
+       [data-theme=light] & {
+         background: $light-background;
+@@ -190,18 +182,11 @@
+   // Default
+   background: $light-background-secondary;
+ 
+-  @media (prefers-color-scheme: dark) {
+-    background: $dark-background-secondary;
+-  }
+ 
+   @media (prefers-color-scheme: light) {
+     background: $light-background-secondary;
+   }
+ 
+-  [data-theme=dark] & {
+-    background: $dark-background-secondary;
+-  }
+-
+   [data-theme=light] & {
+     background: $light-background-secondary;
+   }
+diff --git a/assets/scss/_tables.scss b/assets/scss/_tables.scss
+index 68dbe05..cc0885d 100644
+--- a/assets/scss/_tables.scss
++++ b/assets/scss/_tables.scss
+@@ -12,17 +12,11 @@
+       // Default
+       border: 1px solid $light-table-color;
+       
+-      @media (prefers-color-scheme: dark) {
+-        border: 1px solid $dark-table-color;
+-      }
+     
+       @media (prefers-color-scheme: light) {
+         border: 1px solid $light-table-color;
+       }
+     
+-      [data-theme=dark] & {
+-        border: 1px solid $dark-table-color;
+-      }
+     
+       [data-theme=light] & {
+         border: 1px solid $light-table-color;
+@@ -36,20 +30,12 @@
+         background-color: $light-table-color;
+         color: $light-color;
+ 
+-        @media (prefers-color-scheme: dark) {
+-          background-color: $dark-table-color;
+-          color: $dark-color;
+-        }
+       
+         @media (prefers-color-scheme: light) {
+           background-color: $light-table-color;
+           color: $light-color;
+         }
+       
+-        [data-theme=dark] & {
+-          background-color: $dark-table-color;
+-          color: $dark-color;
+-        }
+       
+         [data-theme=light] & {
+           background-color: $light-table-color;
+@@ -63,17 +49,11 @@
+         // Default
+         border: 1px solid $light-table-color;
+         
+-        @media (prefers-color-scheme: dark) {
+-          border: 1px solid $dark-table-color;
+-        }
+       
+         @media (prefers-color-scheme: light) {
+           border: 1px solid $light-table-color;
+         }
+       
+-        [data-theme=dark] & {
+-          border: 1px solid $dark-table-color;
+-        }
+       
+         [data-theme=light] & {
+           border: 1px solid $light-table-color;
+diff --git a/assets/scss/_variables.scss b/assets/scss/_variables.scss
+index 8bd9bc0..d7cce99 100644
+--- a/assets/scss/_variables.scss
++++ b/assets/scss/_variables.scss
+@@ -10,15 +10,6 @@ $light-color-secondary: #999;
+ $light-border-color: #dcdcdc;
+ $light-table-color: #dcdcdc;
+ 
+-/* Dark theme colors */
+-$dark-background: #232425;
+-$dark-background-secondary: #3b3d42;
+-$dark-background-header: #1b1c1d;
+-$dark-color: #a9a9b3;
+-$dark-color-variant: white;
+-$dark-color-secondary: #b3b3bd;
+-$dark-border-color: #4e4e57;
+-$dark-table-color: #4e4e57;
+ 
+ $media-size-phone: "(max-width: 684px)";
+ $media-size-tablet: "(max-width: 900px)";
+@@ -30,4 +21,4 @@ $media-size-tablet: "(max-width: 900px)";
+ }
+ 
+ /* Content */
+-$max-width: 860px;
+\ No newline at end of file
++$max-width: 860px;
+diff --git a/layouts/partials/menu.html b/layouts/partials/menu.html
+index 2624414..8310ee3 100644
+--- a/layouts/partials/menu.html
++++ b/layouts/partials/menu.html
+@@ -2,7 +2,7 @@
+     <ul class="menu__inner">
+         {{- $currentPage := . -}}
+         {{ range .Site.Menus.main -}}
+-            <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
++        <li><a href="{{ .URL | relLangURL }}" {{ if .Params.nonewtab }}target="_self"{{ end }}>{{ .Name }}</a></li>
+         {{- end }}
+ 
+         {{- if .Site.Params.EnableGlobalLanguageMenu }}

@@ -36,20 +36,12 @@ body {
     font-size: 1rem;
   }
 
-  @media (prefers-color-scheme: dark) {
-    background-color: $dark-background;
-    color: $dark-color;
-  }
 
   @media (prefers-color-scheme: light) {
     background-color: $light-background;
     color: $light-color;
   }
 
-  [data-theme=dark] & {
-    background-color: $dark-background;
-    color: $dark-color;
-  }
 
   [data-theme=light] & {
     background-color: $light-background;
@@ -192,17 +184,11 @@ em, i, strong {
   // Default
   color: $light-color-variant;
 
-  @media (prefers-color-scheme: dark) {
-    color: $dark-color-variant;
-  }
 
   @media (prefers-color-scheme: light) {
     color: $light-color-variant;
   }
 
-  [data-theme=dark] & {
-    color: white;
-  }
 
   [data-theme=light] & {
     color: black;
@@ -220,17 +206,11 @@ code {
   // Default
   background: $light-background-secondary;
 
-  @media (prefers-color-scheme: dark) {
-    background: $dark-background-secondary;
-  }
 
   @media (prefers-color-scheme: light) {
     background: $light-background-secondary;
   }
 
-  [data-theme=dark] & {
-    background: $dark-background-secondary;
-  }
 
   [data-theme=light] & {
     background: $light-background-secondary;
@@ -238,9 +218,6 @@ code {
 }
 
 pre {
-  [data-theme=dark] & {
-    background-color: $dark-background-secondary;
-  }
 
   [data-theme=light] & {
     background-color: $light-background-secondary;
@@ -264,17 +241,11 @@ pre {
     // Default
     color: #ccc;
 
-    @media (prefers-color-scheme: dark) {
-      color: inherit;
-    }
   
     @media (prefers-color-scheme: light) {
       color: #ccc;
     }
   
-    [data-theme=dark] & {
-      color: inherit;
-    }
   
     [data-theme=light] & {
       color: #ccc;
@@ -353,17 +324,11 @@ hr {
   // Default
   background: $light-border-color;
 
-  @media (prefers-color-scheme: dark) {
-    background: $dark-border-color;
-  }
 
   @media (prefers-color-scheme: light) {
     background: $light-border-color;
   }
 
-  [data-theme=dark] & {
-    background: $dark-border-color;
-  }
 
   [data-theme=light] & {
     background: $light-border-color;
