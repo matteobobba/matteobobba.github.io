@@ -89,11 +89,15 @@ hrname="Ideas/Repec"
     identifier = "home"    
     name       = "About"   
     url        = "/" 
+    [menu.main.params]
+    nonewtab   = true
 
   [[menu.main]]
     identifier = "research"
     name       = "Research"
     url        = "/research/"
+    [menu.main.params]
+    nonewtab   = true
     
   [[menu.main]]
     identifier = "cv"
