@@ -1,6 +1,6 @@
 I am a **Professor of Economics** at the [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/) in France. My [research](/research) focuses on topics in **Development, Labor, and Public Economics**.    
 
-I am a Research Fellow at the CEPR ([Development](https://cepr.org/research/programme-areas/development-economics) and [Labor](https://cepr.org/research/programme-areas/labour-economics)), [EUDN](http://eudn.eu/?page_id=598), and [IZA](https://www.iza.org/person/6066/matteo-bobba). I am also an invited researcher at J-PAL ([Learning for All Initiative](https://www.povertyactionlab.org/initiative/learning-all-initiative) and [Latin America Office](https://www.povertyactionlab.org/latin-america-caribbean)). 
+I am a Research Fellow at the CEPR ([DE](https://cepr.org/research/programme-areas/development-economics) and [LE](https://cepr.org/research/programme-areas/labour-economics)), [EUDN](http://eudn.eu/?page_id=598), and [IZA](https://www.iza.org/person/6066/matteo-bobba). I am also an invited researcher at J-PAL ([LAI](https://www.povertyactionlab.org/initiative/learning-all-initiative) and [LAC](https://www.povertyactionlab.org/latin-america-caribbean)). 
 
 
 **What's new?**
