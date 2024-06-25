@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  20 JUN 2024 09:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  25 JUN 2024 11:13
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -420,10 +420,10 @@ al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
 texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmu10.pfb></usr/local/tex
 live/2018/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on cv.pdf (5 pages, 126069 bytes).
+Output written on cv.pdf (5 pages, 126158 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
+ 132 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
  41 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
