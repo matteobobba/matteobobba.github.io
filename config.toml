@@ -37,7 +37,7 @@ paginate     = 10
   [[params.social]]
     name = "case"
    hrname="CV/Resume [PDF]"
-    url  = "/CV.pdf"
+    url  = "/cv.pdf"
 
   [[params.social]]
     name = "email"
@@ -100,6 +100,8 @@ hrname="Ideas/Repec"
     nonewtab   = true
     
   [[menu.main]]
-    identifier = "cv"
-    name       = "CV / Resume [PDF]"
-    url        = "/cv.pdf"
+    identifier = "teaching"
+    name       = "Teaching / Advising"
+    url        = "/teaching/"
+    [menu.main.params]
+    nonewtab   = true
