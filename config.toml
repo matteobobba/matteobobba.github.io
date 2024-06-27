@@ -34,10 +34,10 @@ paginate     = 10
 
   # Social icons
 
-  #[[params.social]]
-    #name = "case"
-   #hrname="CV"
-    #url  = "/CV.pdf"
+  [[params.social]]
+    name = "case"
+   hrname="CV/Resume [PDF]"
+    url  = "/CV.pdf"
 
   [[params.social]]
     name = "email"
