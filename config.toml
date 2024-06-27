@@ -36,7 +36,7 @@ paginate     = 10
 
   [[params.social]]
     name = "case"
-   hrname="CV/Resume [PDF]"
+   hrname="CV / Resume [PDF]"
     url  = "/cv.pdf"
 
   [[params.social]]
