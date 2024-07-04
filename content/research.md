@@ -18,7 +18,7 @@ My research agenda revolves around issues on the accumulation of **human capital
 ## Published Papers
 
 - [Enhancing Human Capital in Children. A Case Study on Scaling](/AAB_jpe_draft_2024.pdf) (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
-**Journal of Political Economy, accepted for publication.** [Web Appendix](/AAB_appendix.pdf); [VoxDev Column](https://voxdev.org/topic/education/how-scale-child-development-programmes).
+**Journal of Political Economy, accepted for publication.** [Web Appendix](/AAB_appendix.pdf); [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TOTKSS); [VoxDev Column](https://voxdev.org/topic/education/how-scale-child-development-programmes).
 
 - [Self-Perceptions about Academic Achievement: Evidence from Mexico City](/BF_joe2022.pdf) (with [Veronica Frisancho](https://veronicafrisancho.net/)). 
 **Journal of Econometrics, 2022, 231(1): 58-73.** [Web Appendix](/BF_appendix.pdf).
