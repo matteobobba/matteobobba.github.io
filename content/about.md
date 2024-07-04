@@ -1,4 +1,4 @@
-I am a **Professor of Economics** at the [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/) in France. 
+I am a **Professor of Economics** at the [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/) in France. My research focuses on Development and Labor Economics. To learn about my work, see my [research page](/research).
 
 I am also a research fellow of the CEPR ([DEV](https://cepr.org/research/programme-areas/development-economics) and [Labour](https://cepr.org/research/programme-areas/labour-economics)), [EUDN](http://eudn.eu/?page_id=598), and [IZA](https://www.iza.org/person/6066/matteo-bobba), as well as an invited researcher at J-PAL ([LAI](https://www.povertyactionlab.org/initiative/learning-all-initiative) and [LAC](https://www.povertyactionlab.org/latin-america-caribbean)). 
 
