@@ -15,7 +15,7 @@ My research agenda revolves around issues on the accumulation of **human capital
 - [Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_May2023.pdf) (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). **New draft coming soon!**
 
 
-## Published Papers
+## Published and Forthcoming Papers
 
 - [Enhancing Human Capital in Children. A Case Study on Scaling](/AAB_jpe_draft_2024.pdf) (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
 **Journal of Political Economy, accepted for publication.** [Web Appendix](/AAB_appendix.pdf); [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TOTKSS); [VoxDev Column](https://voxdev.org/topic/education/how-scale-child-development-programmes).
