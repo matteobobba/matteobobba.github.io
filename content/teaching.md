@@ -28,7 +28,7 @@ author: Matteo Bobba
 
 
 
-## PhD Students Recently Advised (in inverse chronological order):
+## PhD Students Recently Advised:
 
 *For a full list of my students and their placement on the job market, please refer to my [CV](/cv.pdf).*
 
