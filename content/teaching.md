@@ -13,7 +13,7 @@ author: Matteo Bobba
 - Slides for my part of the course will be posted here soon
 
 
-## Spring Semester: Randomized Control trial and Policy Evaluation (TSE, Master 2nd year)
+## Spring Semester: Randomized Control Trials and Policy Evaluation (TSE, Master 2nd year)
 
 - [Syllabus](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA_2020.pdf) 
 
