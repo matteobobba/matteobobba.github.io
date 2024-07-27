@@ -4,7 +4,7 @@ date: 2024-27-07
 author: Matteo Bobba
 ---
 
-*For a full list of courses that I taught in the past, please refer to my [CV](/cv.pdf).*
+*For a full list of the courses that I taught in the past, please refer to my [CV](/cv.pdf).*
 
 ## Fall Semester: Empirical Methods for Policy Evaluation (TSE, PhD 2nd year)
 
