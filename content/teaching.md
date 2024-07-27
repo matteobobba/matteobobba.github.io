@@ -10,7 +10,7 @@ author: Matteo Bobba
 
 - [Syllabus](/Syllabus_EMPE_2024.pdf) (with [Arnaud Maurel](https://www.amaurel.net/))
 
-- Slides of the course will be posted here soon
+- Slides for my part of the course will be posted here soon
 
 
 ## Spring Semester: Randomized Control trial and Policy Evaluation (TSE, Master 2nd year)
@@ -24,7 +24,7 @@ author: Matteo Bobba
 
 - [Syllabus](/Syllabus_Introduction_to_Development.pdf) (with [Mateo Montenegro](https://sites.google.com/view/mateomontenegro))
 
-- Slides of the course will be posted here soon
+- Slides for my part of the course will be posted here soon
 
 
 
