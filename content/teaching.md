@@ -30,6 +30,8 @@ author: Matteo Bobba
 
 ## PhD Students Recently Advised (in inverse chronological order):
 
+*For a full list of my students and their placement on the job market, please refer to my [CV](/cv.pdf).*
+
 - [Jonas Gathen](https://www.jonasgathen.com/) 
 
 - [Anais Fabre](https://www.anaisfabre.com/home) 
@@ -39,5 +41,4 @@ author: Matteo Bobba
 - [Marco Pariguana](https://www.marcopariguana.com/) 
 
 
-*For a full list of my students and their placement on the job market, please refer to my [CV](/cv.pdf).*
 
