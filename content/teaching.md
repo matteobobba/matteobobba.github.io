@@ -4,6 +4,7 @@ date: 2024-27-07
 author: Matteo Bobba
 ---
 
+*For a full list of courses that I taught in the past, please refer to my [CV](/cv.pdf).*
 
 ## Fall Semester: Empirical Methods for Policy Evaluation (TSE, PhD 2nd year)
 
@@ -25,7 +26,6 @@ author: Matteo Bobba
 
 - Slides of the course will be posted here soon
 
-*For a full list of courses that I taught in the past, please refer to my [CV](/cv.pdf).*
 
 
 ## PhD Students Recently Advised (in inverse chronological order):
@@ -37,6 +37,7 @@ author: Matteo Bobba
 - [Tim Ederer](https://sites.google.com/view/tim-ederer) 
 
 - [Marco Pariguana](https://www.marcopariguana.com/) 
+
 
 *For a full list of my students and their placement on the job market, please refer to my [CV](/cv.pdf).*
 
