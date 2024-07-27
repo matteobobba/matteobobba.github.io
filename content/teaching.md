@@ -1,9 +1,11 @@
 ---
+title: Teaching / Advising
 date: 2024-27-07
 author: Matteo Bobba
 ---
 
 This year I will be (co-)teaching the following courses:
+
 *For a full list of courses that I taught in the past, please refer to my [CV](/cv.pdf).*
 
 ## Fall Semester: Empirical Methods for Policy Evaluation (TSE, PhD 2nd year)
@@ -27,4 +29,7 @@ This year I will be (co-)teaching the following courses:
 - Slides of the course will be posted here soon
 
 
-## Students Recently Adviced
+## PhD Students Recently Advised:
+
+*For a full list of my students, please refer to my [CV](/cv.pdf).*
+
