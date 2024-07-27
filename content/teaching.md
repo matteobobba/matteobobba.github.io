@@ -4,9 +4,6 @@ date: 2024-27-07
 author: Matteo Bobba
 ---
 
-This year I will be (co-)teaching the following courses:
-
-*For a full list of courses that I taught in the past, please refer to my [CV](/cv.pdf).*
 
 ## Fall Semester: Empirical Methods for Policy Evaluation (TSE, PhD 2nd year)
 
@@ -28,8 +25,18 @@ This year I will be (co-)teaching the following courses:
 
 - Slides of the course will be posted here soon
 
+*For a full list of courses that I taught in the past, please refer to my [CV](/cv.pdf).*
 
-## PhD Students Recently Advised:
 
-*For a full list of my students, please refer to my [CV](/cv.pdf).*
+## PhD Students Recently Advised (in inverse chronological order):
+
+- [Jonas Gathen](https://www.jonasgathen.com/) 
+
+- [Anais Fabre](https://www.anaisfabre.com/home) 
+
+- [Tim Ederer](https://sites.google.com/view/tim-ederer) 
+
+- [Marco Pariguana](https://www.marcopariguana.com/) 
+
+*For a full list of my students and their placement on the job market, please refer to my [CV](/cv.pdf).*
 
