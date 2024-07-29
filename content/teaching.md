@@ -4,12 +4,11 @@ author: Matteo Bobba
 ---
 
 
-## Courses that I am Currently Teaching
+## Active Courses 
 
 - Empirical Methods for Policy Evaluation (TSE, PhD 2nd year)
 
     - [Syllabus](/Syllabus_EMPE_2024.pdf) (with [Arnaud Maurel](https://www.amaurel.net/))
-    
     - Slides for my part of the course will be posted here soon
 
 
