@@ -24,13 +24,13 @@ author: Matteo Bobba
 
 ## Recent Advisees:
 
-- [Jonas Gathen](https://www.jonasgathen.com/) 
+- [Jonas Gathen](https://www.jonasgathen.com/) (PhD TSE, 2024) 
 
-- [Anais Fabre](https://www.anaisfabre.com/home) 
+- [Anais Fabre](https://www.anaisfabre.com/home) (PhD TSE, 2024) 
 
-- [Tim Ederer](https://sites.google.com/view/tim-ederer) 
+- [Tim Ederer](https://sites.google.com/view/tim-ederer) (PhD TSE, 2023) 
 
-- [Marco Pariguana](https://www.marcopariguana.com/) 
+- [Marco Pariguana](https://www.marcopariguana.com/) (PhD UWO, 2022) 
 
 *For a full list of my past students and their placement on the job market, please refer to my [CV](/cv.pdf).*
 
