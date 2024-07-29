@@ -6,7 +6,7 @@ author: Matteo Bobba
 
 ## Courses that I am Currently Teaching
 
--Empirical Methods for Policy Evaluation (TSE, PhD 2nd year)
+- Empirical Methods for Policy Evaluation (TSE, PhD 2nd year)
 
     - [Syllabus](/Syllabus_EMPE_2024.pdf) (with [Arnaud Maurel](https://www.amaurel.net/))
     
@@ -18,14 +18,12 @@ author: Matteo Bobba
     - [Syllabus](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA_2020.pdf) 
 
 
--Introduction to Development Economics (TSE, Master 1st year)
+- Introduction to Development Economics (TSE, Master 1st year)
 
     - [Syllabus](/Syllabus_Introduction_to_Development.pdf) (with [Mateo Montenegro](https://sites.google.com/view/mateomontenegro))
 
 
 ## Recent Advisees:
-
-*For a full list of my past students and their placement on the job market, please refer to my [CV](/cv.pdf).*
 
 - [Jonas Gathen](https://www.jonasgathen.com/) 
 
@@ -35,5 +33,6 @@ author: Matteo Bobba
 
 - [Marco Pariguana](https://www.marcopariguana.com/) 
 
+*For a full list of my past students and their placement on the job market, please refer to my [CV](/cv.pdf).*
 
 
