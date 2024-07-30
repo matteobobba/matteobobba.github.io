@@ -1,5 +1,4 @@
 ---
-title: Research
 date: 2024-04-04
 author: Matteo Bobba
 ---
