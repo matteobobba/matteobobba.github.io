@@ -17,8 +17,8 @@ My research agenda revolves around issues on the accumulation of **human capital
 
 ## Published and Forthcoming Papers
 
-- [Enhancing Human Capital in Children. A Case Study on Scaling](/AAB_jpe_draft_2024.pdf) (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
-**Journal of Political Economy, accepted for publication.** 
+- [Enhancing Human Capital in Children. A Case Study on Scaling](/AAB_jpe2024.pdf) (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
+**Journal of Political Economy, forthcoming.** 
     - [Web Appendix](/AAB_appendix.pdf)
     - [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TOTKSS)
     - [VoxDev Column](https://voxdev.org/topic/education/how-scale-child-development-programmes)
