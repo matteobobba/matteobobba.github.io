@@ -32,6 +32,6 @@ author: Matteo Bobba
 
 - [Marco Pariguana](https://www.marcopariguana.com/) (PhD UWO, 2022) 
 
-*For a full list of my past students and their placement on the job market, please refer to my [CV](/cv.pdf).*
+*For a full list of my past courses and students, please refer to my [CV](/cv.pdf).*
 
 
