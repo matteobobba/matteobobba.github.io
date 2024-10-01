@@ -13,6 +13,7 @@ My research agenda revolves around issues on the accumulation of **human capital
     - [VoxDev Column](https://voxdev.org/topic/education/how-teacher-wage-policies-help-reduce-urban-rural-achievement-gaps-evidence-peru)
 
 - [Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_July2024.pdf) (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). 
+    - [VoxDev Column](https://voxdev.org/topic/education/scaling-information-interventions-education)
 
 
 ## Published and Forthcoming Papers
