@@ -12,43 +12,43 @@ My research agenda revolves around issues on the accumulation of **human capital
 **Resubmitted, Journal of Political Economy.** 
     - [VoxDev Column](https://voxdev.org/topic/education/how-teacher-wage-policies-help-reduce-urban-rural-achievement-gaps-evidence-peru)
 
-- [**Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects**](/BFP_July2024.pdf) (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). 
+- [*Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects*](/BFP_July2024.pdf) (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). 
     - [VoxDev Column](https://voxdev.org/topic/education/scaling-information-interventions-education)
 
 
 ## Published and Forthcoming Papers
 
-- [**Enhancing Human Capital in Children. A Case Study on Scaling**](/AAB_jpe2024.pdf) (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
+- [*Enhancing Human Capital in Children. A Case Study on Scaling*](/AAB_jpe2024.pdf) (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
 **Journal of Political Economy, forthcoming.** 
     - [Web Appendix](/AAB_appendix.pdf)
     - [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TOTKSS)
     - [VoxDev Column](https://voxdev.org/topic/education/how-scale-child-development-programmes)
 
-- [**Self-Perceptions about Academic Achievement: Evidence from Mexico City**](/BF_joe2022.pdf) (with [Veronica Frisancho](https://veronicafrisancho.net/)). 
+- [*Self-Perceptions about Academic Achievement: Evidence from Mexico City*](/BF_joe2022.pdf) (with [Veronica Frisancho](https://veronicafrisancho.net/)). 
 **Journal of Econometrics, 2022, 231(1): 58-73.** 
     - [Web Appendix](/BF_appendix.pdf)
 
-- [**Labor Market Search, Informality, and Schooling Investments**](/BFL_ier2022.pdf) (with [Luca Flabbi](https://sites.google.com/site/lucaflabbi/) and [Santiago Levy](https://www.brookings.edu/people/santiago-levy/)).
+- [*Labor Market Search, Informality, and Schooling Investments*](/BFL_ier2022.pdf) (with [Luca Flabbi](https://sites.google.com/site/lucaflabbi/) and [Santiago Levy](https://www.brookings.edu/people/santiago-levy/)).
 **International Economic Review, 2022, 63: 211-259.** 
     - [Web Appendix](/BFL_appendix.pdf)
     - [IER Top Cited Article 2022-2023](/Top_Cited_Article.pdf)
     - [VoxLacea Column](https://vox.lacea.org/?q=blog/reforming_labor_markets)
     - [VoxDevLit Issue on Informality](https://voxdev.org/voxdevlit/informality)
 
-- [**Labor Market Search, Informality, and On-The-Job Human Capital Accumulation**](/BFLT_joe2021.pdf) (with [Luca Flabbi](https://sites.google.com/site/lucaflabbi/), [Santiago Levy](https://www.brookings.edu/people/santiago-levy/), and [Mauricio Tejada](https://mauriciotejada.com/)).
+- [*Labor Market Search, Informality, and On-The-Job Human Capital Accumulation*](/BFLT_joe2021.pdf) (with [Luca Flabbi](https://sites.google.com/site/lucaflabbi/), [Santiago Levy](https://www.brookings.edu/people/santiago-levy/), and [Mauricio Tejada](https://mauriciotejada.com/)).
 **Journal of Econometrics, 2021, 223(2): 433-453.** 
     - [Web Appendix](/BFLT_appendix.pdf)
     - [VoxLacea Column](https://vox.lacea.org/?q=blog/reforming_labor_markets)
     - [VoxDevLit Issue on Informality](https://voxdev.org/voxdevlit/informality)
 
-- [**Neighborhood Effects in Integrated Social Policies**](/BG_wber2019.pdf) (with [Jérémie Gignoux](https://www.parisschoolofeconomics.eu/en/gignoux-jeremie/)). **World Bank Economic Review, 2019, 33(1): 116-139.** 
+- [*Neighborhood Effects in Integrated Social Policies*](/BG_wber2019.pdf) (with [Jérémie Gignoux](https://www.parisschoolofeconomics.eu/en/gignoux-jeremie/)). **World Bank Economic Review, 2019, 33(1): 116-139.** 
     - [Web Appendix](/BG_appendix.pdf).
 
-- [**Liquidity, Risk and Occupational Choices**](/BB_res2013.pdf) (with [Milo Bianchi](https://sites.google.com/site/bianchimilo/)). **Review of Economic Studies, 2013, 80(2): 491-511.** 
+- [*Liquidity, Risk and Occupational Choices*](/BB_res2013.pdf) (with [Milo Bianchi](https://sites.google.com/site/bianchimilo/)). **Review of Economic Studies, 2013, 80(2): 491-511.** 
     - [Web Appendix](/BB_appendix.pdf)
     - [Winner of the 2014 AFSE-Malinvaud Prize](https://www.afse.fr/en/prix/le-prix-edmond-malinvaud-500012)
 
-- [**Weak Instruments and Weak Identification in Estimating the Effects of Education on Democracy**](/BC_el2007.pdf) (with [Decio Coviello](https://www.hec.ca/en/profs/decio.coviello.html)).
+- [*Weak Instruments and Weak Identification in Estimating the Effects of Education on Democracy*](/BC_el2007.pdf) (with [Decio Coviello](https://www.hec.ca/en/profs/decio.coviello.html)).
 **Economics Letters, 2007, 96: 301-306.**
 
 *These papers are copyrighted by the respective publisher. A single copy may be downloaded and printed for the reader’s personal research and study only. No other use is permitted.*
