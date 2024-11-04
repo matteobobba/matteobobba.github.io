@@ -4,8 +4,8 @@ I am also a research fellow of the [CEPR](https://cepr.org/research/programme-ar
 
 
 **What's new?**
-- July 2024: Revised draft of [*Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects*](/BFP_July2024.pdf)
+- July 2024: Revised draft of [Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_July2024.pdf)
 
-- March 2024: Revised draft of [*Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru*](/BELNN_March2024.pdf).
+- March 2024: Revised draft of [Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru](/BELNN_March2024.pdf).
 
 - November 2023: I have defended my [Habilitation à Diriger des Recherches (HDR)](https://www.tse-fr.eu/matteo-bobbas-hdr-november-6th2023?lang=en).
