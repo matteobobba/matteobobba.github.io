@@ -12,7 +12,8 @@ author: Matteo Bobba
     - [Ex-ante and Ex-post Policy Evaluation](/Slides_ExAnte.pdf)
     - [Field Experiments and Risk Sharing Models](/Slides_RCT.pdf)
     - [Regression Discontinuity Designs and Empirical Matching Models](/Slides_RD.pdf)
-    
+    - [Difference-in-Differences and Empirical Job Search Models](/Slides_DID.pdf)
+
 - Randomized Control Trials and Policy Evaluation (TSE, Master 2nd year)
 
     - [Syllabus](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA_2020.pdf) 
