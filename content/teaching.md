@@ -13,6 +13,7 @@ author: Matteo Bobba
     - [Field Experiments and Risk Sharing Models](/Slides_RCT.pdf)
     - [Regression Discontinuity Designs and Empirical Matching Models](/Slides_RD.pdf)
     - [Difference-in-Differences and Empirical Job Search Models](/Slides_DID.pdf)
+    - [Takehome (2024)](/Takehome_2024.pdf)
 
 - Randomized Control Trials and Policy Evaluation (TSE, Master 2nd year)
 
