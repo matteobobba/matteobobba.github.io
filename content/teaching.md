@@ -11,8 +11,8 @@ author: Matteo Bobba
     - [Syllabus](/Syllabus_EMPE_2024.pdf) (with [Arnaud Maurel](https://www.amaurel.net/))
     - [Ex-ante and Ex-post Policy Evaluation](/Slides_ExAnte.pdf)
     - [Field Experiments and Risk Sharing Models](/Slides_RCT.pdf)
-    - [Regression Discontinuity Designs and Empirical Matching Models](/Slides_RD.pdf)
-    - [Difference-in-Differences and Empirical Job Search Models](/Slides_DID.pdf)
+    - [Regression Discontinuity Designs and Matching Models](/Slides_RD.pdf)
+    - [Difference-in-Differences and Job Search Models](/Slides_DID.pdf)
     - [Takehome (2024)](/Takehome_2024.pdf)
 
 - Randomized Control Trials and Policy Evaluation (TSE, Master 2nd year)
