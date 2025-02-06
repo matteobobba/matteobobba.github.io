@@ -13,15 +13,15 @@ author: Matteo Bobba
     - [Field Experiments and Risk Sharing Models](/EMPE_RCT.pdf)
     - [Regression Discontinuity Designs and Matching Models](/EMPE_RD.pdf)
     - [Difference-in-Differences and Job Search Models](/EMPE_DID.pdf)
-    - [Takehome (2024)](/Takehome_2024.pdf)
+    - [Takehome](/Takehome_2024.pdf)
 
 - Randomized Control Trials and Policy Evaluation (TSE, Master 2nd year)
 
-    - [Syllabus](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA_2020.pdf) 
-    - [Course Intro and Overview](/RCT_part1.pdf)
+    - [Syllabus](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf) 
+    - [Intro and Overview](/RCT_part1.pdf)
     - [The Econometrics of RCTs](/RCT_part2.pdf)
 
-- Introduction to Development Economics (TSE, Master 1st year)
+- Development Economics (TSE, Master 1st year)
 
     - [Syllabus](/Syllabus_Introduction_to_Development.pdf) (with [Mateo Montenegro](https://sites.google.com/view/mateomontenegro))
 
