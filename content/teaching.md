@@ -9,16 +9,17 @@ author: Matteo Bobba
 - Empirical Methods for Policy Evaluation (TSE, PhD 2nd year)
 
     - [Syllabus](/Syllabus_EMPE_2024.pdf) (with [Arnaud Maurel](https://www.amaurel.net/))
-    - [Ex-ante and Ex-post Policy Evaluation](/Slides_ExAnte.pdf)
-    - [Field Experiments and Risk Sharing Models](/Slides_RCT.pdf)
-    - [Regression Discontinuity Designs and Matching Models](/Slides_RD.pdf)
-    - [Difference-in-Differences and Job Search Models](/Slides_DID.pdf)
+    - [Ex-ante and Ex-post Policy Evaluation](/EMPE_ExAnte.pdf)
+    - [Field Experiments and Risk Sharing Models](/EMPE_RCT.pdf)
+    - [Regression Discontinuity Designs and Matching Models](/EMPE_RD.pdf)
+    - [Difference-in-Differences and Job Search Models](/EMPE_DID.pdf)
     - [Takehome (2024)](/Takehome_2024.pdf)
 
 - Randomized Control Trials and Policy Evaluation (TSE, Master 2nd year)
 
     - [Syllabus](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA_2020.pdf) 
-
+    - [Course Intro and Overview](/RCT_part1.pdf)
+    - [The Econometrics of RCTs](/RCT_part2.pdf)
 
 - Introduction to Development Economics (TSE, Master 1st year)
 
