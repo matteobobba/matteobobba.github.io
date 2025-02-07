@@ -4,7 +4,7 @@ author: Matteo Bobba
 ---
 
 ## Overview
-My research agenda revolves around issues on the accumulation of **human capital** and the functioning of **labor markets** in **low and middle income countries**, with a focus on Latin America. I am also interested in methodological aspects of **policy evaluation**, and in particular in combining model-based and design-based approaches. 
+My research agenda revolves around issues on the spatial distribution of **human capital** and the functioning of **labor markets** in low and middle income countries, with a focus on **Latin America**. I am also interested in methodological aspects of **policy evaluation**, and in particular in combining model-based and design-based approaches. 
 
 
 ## Papers under Review for Publication
