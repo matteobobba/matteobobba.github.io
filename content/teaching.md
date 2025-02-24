@@ -22,6 +22,7 @@ author: Matteo Bobba
     - [Syllabus](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf) 
     - [Intro and Overview](/RCT_part1.pdf)
     - [The Econometrics of RCTs](/RCT_part2.pdf)
+    - [Design and Implementation Issues](/RCT_part3.pdf)
 
 - Development Economics (TSE, Master 1st year)
 
