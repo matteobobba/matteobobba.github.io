@@ -13,7 +13,7 @@ My research agenda revolves around issues on the spatial distribution of **human
 **Resubmitted, Journal of Political Economy.** 
     - [VoxDev Column](https://voxdev.org/topic/education/how-teacher-wage-policies-help-reduce-urban-rural-achievement-gaps-evidence-peru)
 
-- **[Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_July2024.pdf)** (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). 
+- **[Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_July2024.pdf)** (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). **Revise and Resubmit, Journal of Political Economy Microeconomics.** 
     - [VoxDev Column](https://voxdev.org/topic/education/scaling-information-interventions-education)
 
 
