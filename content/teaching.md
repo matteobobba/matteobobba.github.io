@@ -9,7 +9,7 @@ author: Matteo Bobba
 - Empirical Methods for Policy Evaluation (TSE, PhD 2nd year)
 
     - [Syllabus](/Syllabus_EMPE_2024.pdf) (with [Arnaud Maurel](https://www.amaurel.net/))
-    - [Introduction and Overview of the Course](/EMPE_Intro.pdf)
+    - [Intro and Overview](/EMPE_Intro.pdf)
     - [Ex-ante and Ex-post Policy Evaluation](/EMPE_ExAnte.pdf)
     - [Field Experiments and Risk Sharing Models](/EMPE_RCT.pdf)
     - [Regression Discontinuity Designs and Matching Models](/EMPE_RD.pdf)
