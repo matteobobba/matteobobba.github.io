@@ -21,6 +21,7 @@ author: Matteo Bobba
     - [Intro and Overview](/RCT_part1.pdf)
     - [The Econometrics of RCTs](/RCT_part2.pdf)
     - [Design and Implementation Issues](/RCT_part3.pdf)
+    - [Application: Scaling-up RCTs](/RCT_part4.pdf)
 
 - Development Economics (TSE, Master 1st year)
 
