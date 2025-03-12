@@ -10,10 +10,10 @@ My research agenda revolves around issues on the spatial distribution of **human
 ## Papers under Review for Publication
 
 - **[Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru](/BELNN_March2024.pdf)** (with [Tim Ederer](https://sites.google.com/view/tim-ederer), [Gianmarco Léon-Ciliotta](https://sites.google.com/site/gianmarcoleon/), [Chris Neilson](https://christopherneilson.github.io/), and [Marco Nieddu](https://www.marconieddu.net/)).
-**Revision Requested (second round), Journal of Political Economy.** 
+**Revision requested (second round), Journal of Political Economy.** 
     - [VoxDev Column](https://voxdev.org/topic/education/how-teacher-wage-policies-help-reduce-urban-rural-achievement-gaps-evidence-peru)
 
-- **[Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_July2024.pdf)** (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). **Revision Requested, Journal of Political Economy Microeconomics.** 
+- **[Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_July2024.pdf)** (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). **Revision requested, Journal of Political Economy Microeconomics.** 
     - [VoxDev Column](https://voxdev.org/topic/education/scaling-information-interventions-education)
 
 
