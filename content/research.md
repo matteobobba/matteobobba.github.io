@@ -19,7 +19,7 @@ My research agenda revolves around issues on the spatial distribution of **human
 
 ## Published Papers
 
-- **[Enhancing Human Capital in Children. A Case Study on Scaling](/AAB_jpe2025.pdf)** (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
+- **[Enhancing Human Capital in Children: A Case Study on Scaling](/AAB_jpe2025.pdf)** (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
 **Journal of Political Economy, 2025, 133(2): 455-491.** 
     - [Web Appendix](/AAB_appendix.pdf)
     - [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TOTKSS)
@@ -43,7 +43,7 @@ My research agenda revolves around issues on the spatial distribution of **human
     - [VoxDevLit Issue on Informality](https://voxdev.org/voxdevlit/informality)
 
 - **[Neighborhood Effects in Integrated Social Policies](/BG_wber2019.pdf)** (with [Jérémie Gignoux](https://www.parisschoolofeconomics.eu/en/gignoux-jeremie/)). **World Bank Economic Review, 2019, 33(1): 116-139.** 
-    - [Web Appendix](/BG_appendix.pdf).
+    - [Web Appendix](/BG_appendix.pdf)
 
 - **[Liquidity, Risk and Occupational Choices](/BB_res2013.pdf)** (with [Milo Bianchi](https://sites.google.com/site/bianchimilo/)). **Review of Economic Studies, 2013, 80(2): 491-511.** 
     - [Web Appendix](/BB_appendix.pdf)
