@@ -4,9 +4,9 @@ I am also a research fellow of the [CEPR](https://cepr.org/research/programme-ar
 
 
 **What's new?**
-- February 2025: Call for papers, [TSE Economics of Education Workshop](https://www.tse-fr.eu/conferences/2025-2nd-economics-education-workshop).
+- May 2025: Revised draft of [Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_2025.pdf).
 
-- July 2024: Revised draft of [Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_July2024.pdf).
+- February 2025: Call for papers, [TSE Economics of Education Workshop](https://www.tse-fr.eu/conferences/2025-2nd-economics-education-workshop).
 
 - March 2024: Revised draft of [Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru](/BELNN_March2024.pdf).
 
