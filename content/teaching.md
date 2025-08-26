@@ -9,7 +9,7 @@ author: Matteo Bobba
 - [Empirical Methods for Policy Evaluation (TSE, PhD 2nd year)](/Syllabus_EMPE.pdf) 
     - [Overview and Introduction of the Course](/EMPE_Intro.pdf)
     - [Randomized Experiments]()
-    - [Regression Discontinuity Designs and Matching Models]()
+    - [Regression Discontinuity Designs]()
     - [Difference-in-Differences and Event Studies]()
     - [Shift-Share Instrumental Variables]()
 
