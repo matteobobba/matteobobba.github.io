@@ -6,26 +6,22 @@ author: Matteo Bobba
 
 ## Active Courses 
 
-- Empirical Methods for Policy Evaluation (TSE, PhD 2nd year)
+- [Empirical Methods for Policy Evaluation (TSE, PhD 2nd year)](/Syllabus_EMPE.pdf) 
+    - [Overview and Introduction of the Course](/EMPE_Intro.pdf)
+    - [Randomized Experiments]()
+    - [Regression Discontinuity Designs and Matching Models]()
+    - [Difference-in-Differences and Event Studies]()
+    - [Shift-Share Instrumental Variables]()
 
-    - [Syllabus](/Syllabus_EMPE_2024.pdf) (with [Arnaud Maurel](https://www.amaurel.net/))
-    - [Intro and Overview](/EMPE_Intro.pdf)
-    - [Ex-ante and Ex-post Policy Evaluation](/EMPE_ExAnte.pdf)
-    - [Field Experiments and Risk Sharing Models](/EMPE_RCT.pdf)
-    - [Regression Discontinuity Designs and Matching Models](/EMPE_RD.pdf)
-    - [Difference-in-Differences and Job Search Models](/EMPE_DID.pdf)
+- [Randomized Control Trials and Policy Evaluation (TSE, Master 2nd year)](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf) 
 
-- Randomized Control Trials and Policy Evaluation (TSE, Master 2nd year)
-
-    - [Syllabus](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf) 
-    - [Intro and Overview](/RCT_part1.pdf)
+    - [Overview and Introduction of the Course](/RCT_part1.pdf)
     - [The Econometrics of RCTs](/RCT_part2.pdf)
     - [Design and Implementation Issues](/RCT_part3.pdf)
     - [Application: Scaling-up RCTs](/RCT_part4.pdf)
 
-- Development Economics (TSE, Master 1st year)
+- [Development Economics (TSE, Master 1st year)](/Syllabus_Introduction_to_Development.pdf)
 
-    - [Syllabus](/Syllabus_Introduction_to_Development.pdf) (with [Mateo Montenegro](https://sites.google.com/view/mateomontenegro))
 
 
 ## Recent Advisees:
