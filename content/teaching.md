@@ -6,20 +6,20 @@ author: Matteo Bobba
 
 ## Active Courses 
 
-- **[Empirical Methods for Policy Evaluation (TSE, PhD 2nd year)](/Syllabus_EMPE.pdf)**
+- **[Empirical Methods for Policy Evaluation (PhD, Econ)](/Syllabus_EMPE.pdf)**
     - [Overview and Introduction of the Course](/EMPE_Intro.pdf)
     - Randomized Experiments
     - Regression Discontinuity Designs
     - Difference-in-Differences and Event Studies
     - Shift-Share Designs
 
-- **[Randomized Control Trials and Policy Evaluation (TSE, Master 2nd year)](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf)**
+- **[Randomized Control Trials and Policy Evaluation (Master, Public Policy)](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf)**
     - [Overview and Introduction of the Course](/RCT_part1.pdf)
     - [The Econometrics of RCTs](/RCT_part2.pdf)
     - [Design and Implementation Issues](/RCT_part3.pdf)
     - [Application: Scaling-up RCTs](/RCT_part4.pdf)
 
-- **[Development Economics (TSE, Master 1st year)](/Syllabus_Introduction_to_Development.pdf)**
+- **[Development Economics (Master, Econ)](/Syllabus_Introduction_to_Development.pdf)**
 
 
 
