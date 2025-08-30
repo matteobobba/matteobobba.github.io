@@ -11,7 +11,7 @@ author: Matteo Bobba
     - Randomized Experiments
     - Regression Discontinuity Designs
     - Difference-in-Differences and Event Studies
-    - Shift-Share Instrumental Variables
+    - Shift-Share Designs
 
 - **[Randomized Control Trials and Policy Evaluation (TSE, Master 2nd year)](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf)**
     - [Overview and Introduction of the Course](/RCT_part1.pdf)
