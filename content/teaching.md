@@ -8,7 +8,7 @@ author: Matteo Bobba
 
 - **[Empirical Methods for Policy Evaluation (PhD, Econ)](/Syllabus_EMPE.pdf)**
     - [Overview and Introduction of the Course](/EMPE_Intro.pdf)
-    - Randomized Experiments
+    - [Randomized Experiments](/EMPE_RCT.pdf)
     - Regression Discontinuity Designs
     - Difference-in-Differences and Event Studies
     - Shift-Share Designs
