@@ -1,10 +1,10 @@
-I am a **Professor of Economics** at the [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/people/matteo-bobba) in France. My main fields of research are **Labor Economics** and **Development Economics**. 
+I am a **Professor of Economics** at the [Toulouse School of Economics (TSE)](https://www.tse-fr.eu) in France. My main fields of research are **Labor Economics** and **Development Economics**. 
 
-I am also a research fellow of the [CEPR](https://cepr.org/research/programme-areas/development-economics), [EUDN](http://eudn.eu/?page_id=598), and [IZA](https://www.iza.org/person/6066/matteo-bobba), as well as an invited researcher at J-PAL ([LAI](https://www.povertyactionlab.org/initiative/learning-all-initiative) and [LAC](https://www.povertyactionlab.org/latin-america-caribbean)). 
+I currently serve as scientific director of the [TSE Human Capital Center](https://www.tse-fr.eu/human-capital), research fellow of the [CEPR](https://cepr.org/research/programme-areas/development-economics), [EUDN](http://eudn.eu/?page_id=598), and [IZA](https://www.iza.org/person/6066/matteo-bobba), as well as an invited researcher at J-PAL ([LAI](https://www.povertyactionlab.org/initiative/learning-all-initiative) and [LAC](https://www.povertyactionlab.org/latin-america-caribbean)). 
 
 
 **What's new?**
-- July 2025: Launch of the [TSE Human Capital Center](https://www.tse-fr.eu/human-capital).
+- July 2025: Launch of the [TSE Human Capital Center](https://www.tse-fr.eu/introducing-new-tse-human-capital-center).
 
 - May 2025: Revised draft of [Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_2025.pdf).
 
