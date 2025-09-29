@@ -12,6 +12,9 @@ author: Matteo Bobba
     - [Regression Discontinuity Designs](/EMPE_RD.pdf)
     - Difference-in-Differences and Event Studies
     - Shift-Share Designs
+    
+- **[Development Economics (Master, Econ)](/Syllabus_Introduction_to_Development.pdf)**
+
 
 - **[Randomized Control Trials and Policy Evaluation (Master, Public Policy)](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf)**
     - [Overview and Introduction of the Course](/RCT_part1.pdf)
@@ -19,7 +22,6 @@ author: Matteo Bobba
     - [Design and Implementation Issues](/RCT_part3.pdf)
     - [Application: Scaling-up RCTs](/RCT_part4.pdf)
 
-- **[Development Economics (Master, Econ)](/Syllabus_Introduction_to_Development.pdf)**
 
 
 
