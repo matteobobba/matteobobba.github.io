@@ -10,7 +10,7 @@ author: Matteo Bobba
     - [Overview and Introduction of the Course](/EMPE_Intro.pdf)
     - [Randomized Experiments](/EMPE_RCT.pdf)
     - [Regression Discontinuity Designs](/EMPE_RD.pdf)
-    - Difference-in-Differences and Event Studies
+    - [Difference-in-Differences and Event Studies](/EMPE_DID.pdf)
     - Shift-Share Designs
     
 - **[Development Economics (Master, Econ)](/Syllabus_Introduction_to_Development.pdf)**
