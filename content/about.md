@@ -12,4 +12,3 @@ I currently serve as scientific director of the [TSE Human Capital Center](https
 
 - March 2024: Revised draft of [Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru](/BELNN_March2024.pdf).
 
-- November 2023: I have defended my [Habilitation à Diriger des Recherches (HDR)](https://www.tse-fr.eu/matteo-bobbas-hdr-november-6th2023?lang=en).
