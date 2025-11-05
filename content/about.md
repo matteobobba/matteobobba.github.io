@@ -4,7 +4,7 @@ I currently serve as scientific director of the [TSE Human Capital Center](https
 
 
 **What's new?**
-- Job Market 2025-26: I am writing letters for two very promising labor economists: [Juan Pal](https://juanpal.com/) and [Marco Pariguana](https://www.marcopariguana.com/). Check them out!
+- Job Market 2025-26: I am writing letters for two very promising labor economists, [Juan Pal](https://juanpal.com/) and [Marco Pariguana](https://www.marcopariguana.com/). Check them out!
 
 - October 2025: Revised draft of [Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_2025.pdf).
 
