@@ -11,7 +11,7 @@ author: Matteo Bobba
     - [Randomized Experiments](/EMPE_RCT.pdf)
     - [Regression Discontinuity Designs](/EMPE_RD.pdf)
     - [Difference-in-Differences and Event Studies](/EMPE_DID.pdf)
-    - Shift-Share Designs
+    - [Shift-Share Instrumental Variables](/EMPE_SSIV.pdf)
     
 - **[Development Economics (Master, Econ)](/Syllabus_Introduction_to_Development.pdf)**
 
