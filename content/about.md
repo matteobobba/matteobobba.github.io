@@ -10,7 +10,5 @@ I currently serve as scientific director of the [TSE Human Capital Center](https
 
 - October 2025: Revised draft of [Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_2025.pdf).
 
-- July 2025: Launch of the [TSE Human Capital Center](https://www.tse-fr.eu/introducing-new-tse-human-capital-center).
-
 - March 2024: Revised draft of [Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru](/BELNN_March2024.pdf).
 
