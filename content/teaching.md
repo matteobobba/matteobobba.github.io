@@ -17,7 +17,7 @@ author: Matteo Bobba
 
 
 - **[Randomized Control Trials and Policy Evaluation (Master, Public Policy)](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf)**
-    - Overview and Introduction of the Course
+    - [Overview and Introduction of the Course](/RCT_Intro.pdf)
     - The Econometrics of RCTs
     - Design and Implementation Issues
     - Application: Scaling-up RCTs
