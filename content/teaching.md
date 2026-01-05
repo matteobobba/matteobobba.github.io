@@ -16,7 +16,7 @@ author: Matteo Bobba
 - **[Development Economics (Master, Econ)](/Syllabus_Introduction_to_Development.pdf)**
 
 
-- **[Randomized Control Trials and Policy Evaluation (Master, Public Policy)](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf)**
+- **[Randomized Control Trials and Policy Evaluation (MSc, Public Policy)](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf)**
     - [Overview and Introduction of the Course](/RCT_Intro.pdf)
     - The Econometrics of RCTs
     - Design and Implementation Issues
