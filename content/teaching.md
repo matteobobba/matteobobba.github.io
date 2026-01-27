@@ -6,14 +6,14 @@ author: Matteo Bobba
 
 ## Active courses
 
-- **[Empirical Methods for Policy Evaluation (PhD, Econ)](/Syllabus_EMPE.pdf)**
+- **[Empirical Methods for Policy Evaluation (PhD, Economics)](/Syllabus_EMPE.pdf)**
     - [Overview and Introduction of the Course](/EMPE_Intro.pdf)
     - [Randomized Experiments](/EMPE_RCT.pdf)
     - [Regression Discontinuity Designs](/EMPE_RD.pdf)
     - [Difference-in-Differences and Event Studies](/EMPE_DID.pdf)
     - [Shift-Share Instrumental Variables](/EMPE_SSIV.pdf)
     
-- **[Development Economics (Msc, Econ)](/Syllabus_Introduction_to_Development.pdf)**
+- **[Development Economics (Msc, Economics)](/Syllabus_Introduction_to_Development.pdf)**
     - [Introduction of the Course and the Solow Model](/DEV_Intro.pdf)
     - [Human Capital](/DEV_HK.pdf)
     - [Productivity and Factor (Mis)allocation](/DEV_Prod.pdf)
