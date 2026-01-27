@@ -29,7 +29,7 @@ author: Matteo Bobba
 
 
 
-## Recent Advisees:
+## Recent Advisees
 
 - [Jonas Gathen](https://www.jonasgathen.com/) (PhD TSE, 2024) 
 
