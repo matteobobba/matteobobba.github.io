@@ -4,7 +4,7 @@ author: Matteo Bobba
 ---
 
 
-## Active Courses
+## Active courses
 
 - **[Empirical Methods for Policy Evaluation (PhD, Econ)](/Syllabus_EMPE.pdf)**
     - [Overview and Introduction of the Course](/EMPE_Intro.pdf)
@@ -29,7 +29,7 @@ author: Matteo Bobba
 
 
 
-## Recent Advisees
+## Recent advisees
 
 - [Jonas Gathen](https://www.jonasgathen.com/) (PhD TSE, 2024) 
 
