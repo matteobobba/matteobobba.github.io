@@ -13,7 +13,7 @@ author: Matteo Bobba
     - [Difference-in-Differences and Event Studies](/EMPE_DID.pdf)
     - [Shift-Share Instrumental Variables](/EMPE_SSIV.pdf)
     
-- **[Development Economics (Master, Econ)](/Syllabus_Introduction_to_Development.pdf)**
+- **[Development Economics (Msc, Econ)](/Syllabus_Introduction_to_Development.pdf)**
     - [Introduction of the Course and the Solow Model](/DEV_Intro.pdf)
     - [Human Capital](/DEV_HK.pdf)
     - [Productivity and Factor (Mis)allocation](/DEV_Prod.pdf)
