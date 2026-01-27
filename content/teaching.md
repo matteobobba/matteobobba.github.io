@@ -17,7 +17,7 @@ author: Matteo Bobba
     - [Introduction of the Course and the Solow Model](/DEV_Intro.pdf)
     - [Human Capital](/DEV_HK.pdf)
     - [Productivity and Factor (Mis)allocation](/DEV_Prod.pdf)
-    - Geography and Institutions
+    - [Geography and Institutions](/DEV_Inst.pdf)
     - Culture and Social Capital
 
 - **[Randomized Control Trials and Policy Evaluation (MSc, Public Policy)](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf)**
