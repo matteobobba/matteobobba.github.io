@@ -16,7 +16,7 @@ author: Matteo Bobba
 - **[Development Economics (Master, Econ)](/Syllabus_Introduction_to_Development.pdf)**
     - [Introduction of the Course and the Solow Model](/DEV_Intro.pdf)
     - [Human Capital](/DEV_HK.pdf)
-    - [Productivity and Misallocation](/DEV_Prod.pdf)
+    - [Productivity and Factor (Mis)allocation](/DEV_Prod.pdf)
     - Geography and Institutions
     - Culture and Social Capital
 
