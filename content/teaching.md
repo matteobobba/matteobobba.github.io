@@ -18,7 +18,7 @@ author: Matteo Bobba
     - [Human Capital](/DEV_HK.pdf)
     - [Productivity and Factor (Mis)allocation](/DEV_Prod.pdf)
     - [Geography and Institutions](/DEV_Inst.pdf)
-    - Culture and Social Capital
+    - Social Capital
 
 - **[Randomized Control Trials and Policy Evaluation (MSc, Public Policy)](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf)**
     - [Overview and Introduction of the Course](/RCT_Intro.pdf)
