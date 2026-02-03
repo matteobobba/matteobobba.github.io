@@ -6,21 +6,21 @@ author: Matteo Bobba
 
 ## Active courses
 
-- **[Empirical Methods for Policy Evaluation (PhD, Economics)](/Syllabus_EMPE.pdf)**
-    - [Overview and Introduction of the Course](/EMPE_Intro.pdf)
-    - [Randomized Experiments](/EMPE_RCT.pdf)
-    - [Regression Discontinuity Designs](/EMPE_RD.pdf)
-    - [Difference-in-Differences and Event Studies](/EMPE_DID.pdf)
-    - [Shift-Share Instrumental Variables](/EMPE_SSIV.pdf)
+- **[Empirical Methods for Policy Evaluation (PhD Economics)](/Syllabus_EMPE.pdf)**
+    - [Causal Inference Meets Structural Models](/EMPE_Intro.pdf)
+    - [Randomized Experiments and Risk Sharing Models](/EMPE_RCT.pdf)
+    - [Regression Discontinuity Designs and Discrete Choice Models](/EMPE_RD.pdf)
+    - [Difference-in-Differences/Event Studies and Job Search Models](/EMPE_DID.pdf)
+    - [Shift-Share Instrumental Variables and Models of Firm Dynamics](/EMPE_SSIV.pdf)
     
-- **[Development Economics (Msc, Economics)](/Syllabus_Introduction_to_Development.pdf)**
+- **[Development Economics (Msc Economics)](/Syllabus_Introduction_to_Development.pdf)**
     - [Introduction of the Course and the Solow Model](/DEV_Intro.pdf)
     - [Human Capital](/DEV_HK.pdf)
     - [Productivity and Factor (Mis)allocation](/DEV_Prod.pdf)
     - [Geography and Institutions](/DEV_Inst.pdf)
     - [Culture and Social Capital](/DEV_Culture.pdf)
 
-- **[Randomized Control Trials and Policy Evaluation (MSc, Public Policy)](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf)**
+- **[Randomized Control Trials and Policy Evaluation (MSc Public Policy)](/M2_S2_Randomized_Control_Trial_and_Policy_Evaluation_BOBBA.pdf)**
     - [Overview and Introduction of the Course](/RCT_Intro.pdf)
     - [The Econometrics of RCTs](/RCT_metrics.pdf)
     - Design and Implementation Issues
