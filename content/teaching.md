@@ -24,7 +24,7 @@ author: Matteo Bobba
     - [Overview and Introduction of the Course](/RCT_Intro.pdf)
     - [The Econometrics of RCTs](/RCT_metrics.pdf)
     - [Design and Implementation Issues](/RCT_design.pdf)
-    - Application: Scaling-up RCTs
+    - [Application: Scaling-up RCTs](/RCT_scaling.pdf)
 
 
 
