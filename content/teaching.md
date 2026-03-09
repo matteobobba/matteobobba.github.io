@@ -31,6 +31,8 @@ author: Matteo Bobba
 
 ## Recent advisees
 
+- [Juan Martin Pal](https://juanpal.com/) (PhD TSE, 2026) 
+
 - [Jonas Gathen](https://www.jonasgathen.com/) (PhD TSE, 2024) 
 
 - [Anais Fabre](https://www.anaisfabre.com/home) (PhD TSE, 2024) 
