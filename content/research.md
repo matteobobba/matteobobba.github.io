@@ -9,7 +9,7 @@ My research agenda revolves around issues on the spatial distribution of **human
 
 ## Papers under review
 
-- **[Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru](/BELNN_Jan2026.pdf)** (with [Tim Ederer](https://sites.google.com/view/tim-ederer), [Gianmarco Léon-Ciliotta](https://sites.google.com/site/gianmarcoleon/), [Chris Neilson](https://christopherneilson.github.io/), and [Marco Nieddu](https://www.marconieddu.net/)).
+- **[Teacher Compensation and Structural Inequality](/BELNN_Jan2026.pdf)** (with [Tim Ederer](https://sites.google.com/view/tim-ederer), [Gianmarco Léon-Ciliotta](https://sites.google.com/site/gianmarcoleon/), [Chris Neilson](https://christopherneilson.github.io/), and [Marco Nieddu](https://www.marconieddu.net/)).
 **Revision resubmitted (second round), Journal of Political Economy.** 
 
     - [VoxDev Column](https://voxdev.org/topic/education/how-teacher-wage-policies-help-reduce-urban-rural-achievement-gaps-evidence-peru)
@@ -17,16 +17,16 @@ My research agenda revolves around issues on the spatial distribution of **human
 
 ## Published and forthcoming papers
 
-- **[Perceived Ability and School Choices: Experimental Evidence and Scale-up Effects](/BFP_March2026.pdf)** (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). **Journal of Political Economy Microeconomics, accepted for publication.** 
+- **[Perceived Ability and School Choices](/BFP_March2026.pdf)** (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). **Journal of Political Economy Microeconomics, accepted for publication.** 
     - [VoxDev Column](https://voxdev.org/topic/education/scaling-information-interventions-education)
 
-- **[Enhancing Human Capital in Children: A Case Study on Scaling](/AAB_jpe2025.pdf)** (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
+- **[Enhancing Human Capital in Children](/AAB_jpe2025.pdf)** (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
 **Journal of Political Economy, 2025, 133(2): 455-491.** 
     - [Web Appendix](/AAB_appendix.pdf)
     - [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TOTKSS)
     - [VoxDev Column](https://voxdev.org/topic/education/how-scale-child-development-programmes)
 
-- **[Self-Perceptions about Academic Achievement: Evidence from Mexico City](/BF_joe2022.pdf)** (with [Veronica Frisancho](https://veronicafrisancho.net/)). 
+- **[Self-Perceptions about Academic Achievement](/BF_joe2022.pdf)** (with [Veronica Frisancho](https://veronicafrisancho.net/)). 
 **Journal of Econometrics, 2022, 231(1): 58-73.** 
     - [Web Appendix](/BF_appendix.pdf)
 
