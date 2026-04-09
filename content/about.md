@@ -5,7 +5,7 @@ I currently serve as scientific director of the [TSE Human Capital Center](https
 
 **What's new?**
 
-- March 2026: Revised (and near-final) draft of [Perceived Ability and School Choices](/BFP_March2026.pdf).
+- March 2026: Near-final draft of [Perceived Ability and School Choices](/BFP_March2026.pdf).
 
 - January 2026: Revised draft of [Teacher Compensation and Structural Inequality](/BELNN_Jan2026.pdf).
 
