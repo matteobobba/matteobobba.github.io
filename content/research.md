@@ -17,7 +17,9 @@ My research agenda revolves around issues on the spatial distribution of **human
 
 ## Published and forthcoming papers
 
-- **[Perceived Ability and School Choices](/BFP_March2026.pdf)** (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). **Journal of Political Economy Microeconomics, accepted for publication.** 
+- **[Perceived Ability and School Choices](/BFP_JPEMicro.pdf)** (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). **Journal of Political Economy Microeconomics, accepted for publication.** 
+    - [Web Appendix](/BFP_appendix.pdf)
+    - [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/U9J4PC)
     - [VoxDev Column](https://voxdev.org/topic/education/scaling-information-interventions-education)
 
 - **[Enhancing Human Capital in Children](/AAB_jpe2025.pdf)** (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
