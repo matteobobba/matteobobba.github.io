@@ -56,3 +56,6 @@ My research agenda revolves around issues on the spatial distribution of **human
 **Economics Letters, 2007, 96: 301-306.**
 
 *These papers are copyrighted by the respective publisher. A single copy may be downloaded and printed for the reader’s personal research and study only. No other use is permitted.*
+
+
+
