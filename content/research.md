@@ -10,7 +10,7 @@ My research agenda revolves around issues on the spatial distribution of **human
 ## Papers under review
 
 - **[Teacher Compensation and Structural Inequality](/BELNN_Jan2026.pdf)** (with [Tim Ederer](https://sites.google.com/view/tim-ederer), [Gianmarco Léon-Ciliotta](https://sites.google.com/site/gianmarcoleon/), [Chris Neilson](https://christopherneilson.github.io/), and [Marco Nieddu](https://www.marconieddu.net/)).
-**Revision resubmitted (second round), Journal of Political Economy.** 
+**Journal of Political Economy, revision resubmitted (second round).** 
 
     - [VoxDev Column](https://voxdev.org/topic/education/how-teacher-wage-policies-help-reduce-urban-rural-achievement-gaps-evidence-peru)
     - [TSE Reflect](https://www.tse-fr.eu/smarter-pay-fairer-schools)
