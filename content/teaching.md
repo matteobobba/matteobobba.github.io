@@ -8,10 +8,10 @@ author: Matteo Bobba
 
 - **[Empirical Methods for Policy Evaluation (PhD Economics)](/Syllabus_EMPE.pdf)**
     - [Causal Inference Meets Structural Models](/EMPE_Intro.pdf)
-    - [Randomized Experiments and Risk Sharing Models](/EMPE_RCT.pdf)
-    - [Regression Discontinuity Designs and Discrete Choice Models](/EMPE_RD.pdf)
-    - [Difference-in-Differences/Event Studies and Job Search Models](/EMPE_DID.pdf)
-    - [Shift-Share Instrumental Variables and Models of Firm Dynamics](/EMPE_SSIV.pdf)
+    - [Randomized Experiments and Risk Sharing](/EMPE_RCT.pdf)
+    - [Regression Discontinuity Designs and School Choice](/EMPE_RD.pdf)
+    - [Difference-in-Differences/Event Studies and Job Search](/EMPE_DID.pdf)
+    - [Instrumental Variables/Shift-Share Designs and Firm Dynamics](/EMPE_SSIV.pdf)
     
 - **[Development Economics (Msc Economics)](/Syllabus_Introduction_to_Development.pdf)**
     - [Introduction of the Course and the Solow Model](/DEV_Intro.pdf)
