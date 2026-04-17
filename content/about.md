@@ -5,7 +5,7 @@ I currently serve as scientific director of the [TSE Human Capital Center](https
 
 **What's new?**
 
-- June 2026: [TSE Human Capital Conference at TSE](https://www.tse-fr.eu/sites/default/files/TSE/documents/conf/2026/1sthumancapitalconference-program.pdf).
+- June 2026: [TSE Human Capital Conference](https://www.tse-fr.eu/sites/default/files/TSE/documents/conf/2026/1sthumancapitalconference-program.pdf).
 
 - March 2026: Near-final draft of [Perceived Ability and School Choices](/BFP_March2026.pdf).
 
