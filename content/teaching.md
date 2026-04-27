@@ -7,9 +7,9 @@ author: Matteo Bobba
 ## Active courses
 
 - **[Empirical Methods for Policy Evaluation (PhD Economics)](/Syllabus_EMPE.pdf)**
-    - [Causal Inference Meets Structural Models](/EMPE_Intro.pdf)
+    - [Causal Inference Meets Structural Models (and Viceversa)](/EMPE_Intro.pdf)
     - [Randomized Experiments and Risk Sharing](/EMPE_RCT.pdf)
-    - [Regression Discontinuity Designs and School Choice](/EMPE_RD.pdf)
+    - [Regression Discontinuity Designs and Discrete Choice Models](/EMPE_RD.pdf)
     - [Difference-in-Differences/Event Studies and Job Search](/EMPE_DID.pdf)
     - [Instrumental Variables/Shift-Share Designs and Firm Dynamics](/EMPE_SSIV.pdf)
     
