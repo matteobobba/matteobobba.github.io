@@ -22,7 +22,7 @@ My research agenda revolves around issues on the spatial distribution of **human
     - [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/U9J4PC)
     - [VoxDev Column](https://voxdev.org/topic/education/scaling-information-interventions-education)
 
-- **[Enhancing Human Capital in Children](/AAB_jpe2025.pdf)** (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
+- **[Enhancing Human Capital in Children: A Case Study in Scaling](/AAB_jpe2025.pdf)** (with [Francesco Agostinelli](https://www.francesco-agostinelli.com/) and [Ciro Avitabile](https://sites.google.com/site/avitabileciro)).
 **Journal of Political Economy, 2025.** 
     - [Web Appendix](/AAB_appendix.pdf)
     - [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TOTKSS)
