@@ -3,7 +3,7 @@ I am a **Professor of Economics** at the [Toulouse School of Economics (TSE)](ht
 I currently serve as scientific director of the [TSE Human Capital Center](https://www.tse-fr.eu/human-capital), research fellow of the CEPR ([DE](https://cepr.org/research/programme-areas/development-economics) and [LE](https://cepr.org/research/programme-areas/labour-economics)), EUDN, and [IZA](https://www.iza.org/person/6066/matteo-bobba), as well as invited researcher at J-PAL ([LAI](https://www.povertyactionlab.org/initiative/learning-all-initiative) and [LAC](https://www.povertyactionlab.org/latin-america-caribbean)). 
 
 
-**What's new?**
+**Recent highlights**
 
 - June 2026: [TSE Human Capital Conference](https://www.tse-fr.eu/sites/default/files/TSE/documents/conf/2026/1sthumancapitalconference-program.pdf).
 
