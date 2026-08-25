@@ -7,7 +7,7 @@ I currently serve as scientific director of the [TSE Human Capital Center](https
 
 - August 2026: Revised draft of [Teacher Compensation and Structural Inequality](/BELNN_Aug2026.pdf).
 
-- July 2026: Research grant (as PI) from the French National Research Agency (ANR): BRIDGEGAPS 
+- July 2026: Research grant (as PI) from the French National Research Agency: ANR-BRIDGEGAPS 
 
 - June 2026: [TSE Human Capital Conference](https://www.tse-fr.eu/sites/default/files/TSE/documents/conf/2026/1sthumancapitalconference-program.pdf).
 
