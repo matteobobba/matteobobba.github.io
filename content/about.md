@@ -5,11 +5,14 @@ I currently serve as scientific director of the [TSE Human Capital Center](https
 
 ## Recent highlights
 
+- August 2026: Revised draft of [Teacher Compensation and Structural Inequality](/BELNN_Aug2026.pdf).
+
+- July 2026: Research grant from the French National Agency of Research (ANR): BRIDGEGAPS 
+
 - June 2026: [TSE Human Capital Conference](https://www.tse-fr.eu/sites/default/files/TSE/documents/conf/2026/1sthumancapitalconference-program.pdf).
 
 - March 2026: Final (accepted!) draft of [Perceived Ability and School Choices](/BFP_JPEMicro.pdf).
 
-- January 2026: Revised draft of [Teacher Compensation and Structural Inequality](/BELNN_Jan2026.pdf).
 
 
 
