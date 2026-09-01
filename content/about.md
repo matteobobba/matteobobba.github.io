@@ -5,7 +5,7 @@ I currently serve as scientific director of the [TSE Human Capital Center](https
 
 ## Recent highlights
 
-- August 2026: Revised draft of [Teacher Compensation and Structural Inequality](/BELNN_Aug2026.pdf).
+- August 2026: Final (accepted!) draft of [Teacher Compensation and Structural Inequality](/BELNN_Aug2026.pdf).
 
 - July 2026: PI of BRIDGEGAPS, a research-team grant awarded by the French National Research Agency (ANR)
 

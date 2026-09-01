@@ -7,15 +7,15 @@ author: Matteo Bobba
 My research agenda revolves around issues on the spatial distribution of **human capital** and the functioning of **labor markets** in low and middle income countries, with a regional focus on **Latin America**. I am also interested in methodological aspects of **policy evaluation**, and in particular in combining structural models and causal inference approaches. 
 
 
-## Papers under review
+
+## Published and forthcoming papers
+
 
 - **[Teacher Compensation and Structural Inequality](/BELNN_Aug2026.pdf)** (with [Tim Ederer](https://sites.google.com/view/tim-ederer), [Gianmarco Léon-Ciliotta](https://sites.google.com/site/gianmarcoleon/), [Chris Neilson](https://christopherneilson.github.io/), and [Marco Nieddu](https://www.marconieddu.net/)).
-**Journal of Political Economy, revision resubmitted (third round).** 
+**Journal of Political Economy, accepted for publication.** 
 
     - [VoxDev Column](https://voxdev.org/topic/education/how-teacher-wage-policies-help-reduce-urban-rural-achievement-gaps-evidence-peru)
     - [TSE Reflect](https://www.tse-fr.eu/smarter-pay-fairer-schools)
-
-## Published and forthcoming papers
 
 - **[Perceived Ability and School Choices](/BFP_JPEMicro.pdf)** (with [Veronica Frisancho](https://veronicafrisancho.net/) and [Marco Pariguana](https://www.marcopariguana.com/)). **Journal of Political Economy Microeconomics, accepted for publication.** 
     - [Web Appendix](/BFP_Appendix.pdf)
