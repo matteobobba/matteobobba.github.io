@@ -8,7 +8,7 @@ author: Matteo Bobba
 
 - **Empirical Methods for Policy Evaluation (PhD Economics)**
     - [Causal Inference Meets Structural Models (and Viceversa)](/EMPE_Intro.pdf)
-    - Randomized Experiments and Dynamic Latent Factor Models
+    - [Randomized Experiments and Dynamic Latent Factor Models](/EMPE_RCT.pdf)
     - Regression Discontinuity Designs and School Choice Models
     - Difference-in-Differences/Event Studies and Job Search Models
     - Instrumental Variables/Shift-Share Designs and Models of Firm Dynamics
