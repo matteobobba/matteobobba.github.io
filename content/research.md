@@ -7,6 +7,10 @@ author: Matteo Bobba
 My research agenda revolves around issues on the spatial distribution of **human capital** and the functioning of **labor markets** in low and middle income countries, with a regional focus on **Latin America**. I am also interested in methodological aspects of **policy evaluation**, and in particular in combining structural models and causal inference approaches. 
 
 
+## Working papers
+
+**Signal Extraction in Hiring: Evidence from Teacher Recruiting** (with [Tim Ederer](https://sites.google.com/view/tim-ederer), [Gianmarco Léon-Ciliotta](https://sites.google.com/site/gianmarcoleon/), [Chris Neilson](https://christopherneilson.github.io/), and [Marco Nieddu](https://www.marconieddu.net/)). *Draft coming out soon*
+
 
 ## Published and forthcoming papers
 
