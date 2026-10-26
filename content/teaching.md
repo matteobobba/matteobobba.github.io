@@ -11,7 +11,7 @@ author: Matteo Bobba
     - [Randomized Experiments and Dynamic Latent Factor Models](/EMPE_RCT.pdf)
     - [Regression Discontinuity Designs and School Choice Models](/EMPE_RD.pdf)
     - [Difference-in-Differences and Job Search Models](/EMPE_DID.pdf)
-    - Instrumental Variables/Shift-Share Designs and Models of Firm Dynamics
+    - Shift-Share Instrumental Variables and Models of Firm Dynamics
     
 - **Development Economics (Msc Economics)**
     - [Motivating Facts and a Framework for the Analysis](/DEV_Intro.pdf)
