@@ -4,6 +4,7 @@ I currently serve as scientific director of the [TSE Human Capital Center](https
 
 
 ## Recent highlights
+- Job Market 26-27: Writing letters for [Guillem Foucault](https://gfill.github.io/) (Labor-Public), [David Morales](https://davidsmorales.github.io/) (Dev-Labor), and [Valentina Reig](https://valentinareig.github.io/) (IO-Health). Check them out!
 
 - November 2026: New draft of [Signal Extraction in Centralized Assignment: Evidence from Teacher Recruiting](/BELNN2_Nov2026.pdf).
 
