@@ -5,6 +5,8 @@ I currently serve as scientific director of the [TSE Human Capital Center](https
 
 ## Recent highlights
 
+- November 2026: New draft of [Signal Extraction in Centralized Assignment: Evidence from Teacher Recruiting](/BELNN2_Nov2026.pdf).
+
 - August 2026: Final (accepted!) draft of [Teacher Compensation and Structural Inequality](/BELNN_Aug2026.pdf).
 
 - July 2026: PI for the ANR grant [Bridging Gaps in Human Capital (BRIDGEGAPS, 2026-2031)](/BRIDGEGAPS_abstract.pdf).
