@@ -6,13 +6,13 @@ I currently serve as scientific director of the [TSE Human Capital Center](https
 ## Recent highlights
 - Job Market 26-27: Letter writer for [Guillem Foucault](https://gfill.github.io/) (Labor-Public), [David Morales](https://davidsmorales.github.io/) (Dev-Labor), and [Valentina Reig](https://valentinareig.github.io/) (IO-Health).
 
+- December 2026: Call for paper for [2nd TSE Human Capital Conference](https://www.tse-fr.eu/2nd-human-capital-conference).
+
 - November 2026: New draft of [Signal Extraction in Centralized Assignment: Evidence from Teacher Recruiting](/BELNN2_Nov2026.pdf).
 
 - August 2026: Final (accepted!) draft of [Teacher Compensation and Structural Inequality](/BELNN_Aug2026.pdf).
 
 - July 2026: PI for the ANR grant [Bridging Gaps in Human Capital (BRIDGEGAPS, 2026-2031)](/BRIDGEGAPS_abstract.pdf).
-
-- June 2026: [TSE Human Capital Conference](https://www.tse-fr.eu/sites/default/files/TSE/documents/conf/2026/1sthumancapitalconference-program.pdf).
 
 - March 2026: Final (accepted!) draft of [Perceived Ability and School Choices](/BFP_JPEMicro.pdf).
 
